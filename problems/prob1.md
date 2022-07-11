@@ -61,3 +61,11 @@
         - 진짜 훨씬 훨씬 훨씬 빠르다... STL 열심히 써야겠다 !!
     - 금방 풀었다고 생각했는데, 인덱스 때문에 살짝 헤맨것 같다
 
+    <br>
+
+    (8) 덱 ([10866번](https://github.com/22000546/ProblemSolving/blob/main/problems/prob1/10866.cpp))
+    - 시간 : 20분
+    - 벡터 버전 : 테스트 케이스 실패 -> 인덱스 문제 ㅎㅎ... 꼼꼼하게 신경쓰자!
+    - STL에 deque도 있다 .. !!  [STL 버전](https://github.com/22000546/ProblemSolving/blob/main/problems/prob1/10866_2.cpp)
+
+
