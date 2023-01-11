@@ -1,17 +1,12 @@
-<center><img src="https://i.pinimg.com/originals/aa/6e/80/aa6e80c9fc9fd4af8579721a216abdb1.jpg" width="35%" height="35%"></center>
+<center><img src="https://64.media.tumblr.com/57beb931370e9b6cfe9bdf732117aca7/7ad04332e0d7d9ae-2f/s1280x1920/a66b90f5d7fd1143363b1cdf61a17ec9c00f5c76.jpg" width="35%" height="35%"></center>
 
 <br>
 
-**뭐라도 해보자**
+*Success is the sum of small efforts - repeated day in and day out*
 
 ---
-### 1. 계획
-- [220711-220718](https://github.com/22000546/ProblemSolving/wiki/Plan)
-
-### 2. 로그
-- [알고리즘 기초 1](https://github.com/22000546/ProblemSolving/wiki/Log1)
-
-### 3. 리뷰
-- [220711-220718](https://github.com/22000546/ProblemSolving/wiki/Review1)
+### 1. 로그
+- 알고리즘 기초 1
+    - [자료구조 1](https://github.com/22000546/ProblemSolving/wiki/Log1)
 
 ---
