@@ -4,14 +4,16 @@
 
 1. 자료구조1
 
-    (1) 스택 ([10828번](https://github.com/22000546/ProblemSolving/blob/main/problems/prob1/10828.cpp))
-    - 시간 : 17분
+    (1) [스택 (10828번)](https://www.acmicpc.net/problem/10828)
+    - [시간 : 17분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/1_10828.cpp)
     - STL의 stack을 이용해서 풀었다. STL 막는데도 있다고 했던거 같은데 찾아보니 삼성도 이제 사용가능하다고 해서 그냥 잘 쓰는 것에 집중하는게 나을 것 같다.
 
     <br>
 
-    (2) 단어 뒤집기 ([9093번](https://github.com/22000546/ProblemSolving/blob/main/problems/prob1/9093.cpp))
-    - 시간 : 
+    (2) [단어 뒤집기 (9093번)](https://www.acmicpc.net/problem/9093) 
+    - 시간 : 21분에 포기 => [서칭 후 14분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/2_9093.cpp)
+    - 스택 이용 생각도 못함 ,,, + 문자열 사용,,,,,
+    - 스택 <-> **입력과 반대인 출력**이 필요할 때
 
     <br>
 
