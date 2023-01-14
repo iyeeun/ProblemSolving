@@ -17,8 +17,9 @@
 
     <br>
 
-    (3) 괄호 ([9012번](https://github.com/22000546/ProblemSolving/blob/main/problems/prob1/9012.cpp))
-    - 시간 : 
+    (3) [괄호 (9012번)](https://www.acmicpc.net/problem/9012)
+    - 시간 : 12분
+    - stack empty이면 top이 segmentation fault
 
     <br>
 
