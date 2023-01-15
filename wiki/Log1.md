@@ -23,13 +23,15 @@
 
     <br>
 
-    (4) 스택 수열 ([1874번](https://github.com/22000546/ProblemSolving/blob/main/problems/prob1/1874_3.cpp))
-    - 시간 : 
+    (4) [스택 수열 (1874번)](https://www.acmicpc.net/problem/1874)
+    - 시간 : 23분에서 시간 초과, 총 32분
+    - endl은 느림
+    - 어려운 문제는 toy example로 규칙 찾기
 
     <br>
 
-    (5) 에디터 ([1406번](https://github.com/22000546/ProblemSolving/blob/main/problems/prob1/1406_3.cpp))
-    - 시간 : 
+    (5) [에디터 (1406번)](https://www.acmicpc.net/problem/1406)
+    - 시간 : 11분
 
     <br>
 
@@ -44,6 +46,11 @@
     <br>
 
     (8) 덱 ([10866번](https://github.com/22000546/ProblemSolving/blob/main/problems/prob1/10866.cpp))
+    - 시간 : 
+
+    <br>
+
+    (9) [단어 뒤집기 2 (17413번)](https://www.acmicpc.net/problem/17413)
     - 시간 : 
 
     <br>
