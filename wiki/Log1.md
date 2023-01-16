@@ -35,8 +35,8 @@
 
     <br>
 
-    (6) 큐 ([10845번](https://github.com/22000546/ProblemSolving/blob/main/problems/prob1/10845.cpp))
-    - 시간 : 
+    (6) [큐 (10845번)](https://www.acmicpc.net/problem/10845)
+    - 시간 : 8분
 
     <br>
 

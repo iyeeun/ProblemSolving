@@ -35,3 +35,15 @@ vec.size();
 vec.insert(idx, value); // return iterator
 vec.erase(iter);
 ```
+
+#### Queue
+```:cpp
+#include <queue>
+queue<int> q;
+q.push(3);
+q.pop(); // void
+q.front(); // type
+q.back();
+q.size(); // int
+q.empty(); // bool
+```
