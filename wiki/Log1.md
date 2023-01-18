@@ -40,8 +40,10 @@
 
     <br>
 
-    (7) 요세푸스 문제 ([1158번](https://github.com/22000546/ProblemSolving/blob/main/problems/prob1/1158.cpp))
-    - 시간 : 
+    (7) [요세푸스 문제 (1158번)](https://www.acmicpc.net/problem/1158)
+    - 시간 : 21분
+    - 큐 문제인건 알았는데 잘 생각이 안나서 벡터로 풀었음. 시간이 많이 걸리는 방법인듯
+    - 벡터이든 큐이든 2개 말고 하나만 쓰도록 최적화할 수 있음
 
     <br>
 
