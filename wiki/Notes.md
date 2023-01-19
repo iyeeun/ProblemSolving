@@ -47,3 +47,18 @@ q.back();
 q.size(); // int
 q.empty(); // bool
 ```
+
+#### Deque
+```:cpp
+#include <deque>
+deque<int> d;
+d.push_front(3);
+d.push_back(3);
+d.pop_front(); // void
+d.pop_back(); // void
+d.front(); // type
+d.back();
+d.size(); // int
+d.empty(); // bool
+d.clear();
+```
