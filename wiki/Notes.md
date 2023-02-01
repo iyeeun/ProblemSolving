@@ -7,6 +7,15 @@
 - 문자열 길이 : `str.length()`
 - 인덱스로 char 접근 가능
 - endl은 느리기 때문에 시간 초과가 발생할 수 있음 => '\n'으로 대체
+- 문자열 찾기 : `str1.find(str2);` => 인덱스 or `string::npos` (-1) 리턴
+- 문자열 대체 : `str.replace(start_idx, length, new_str)`
+
+#### 시간 줄이기
+```:cpp
+ios_base::sync_with_stdio(false);
+cin.tie(NULL);
+cout.tie(NULL);
+```
 
 ### 1. STL
 #### Stack
@@ -61,4 +70,15 @@ d.back();
 d.size(); // int
 d.empty(); // bool
 d.clear();
+```
+
+#### Map
+```:cpp
+#include <map>
+map<int, int> m;
+m[key] = val;
+m.insert(pair);
+m.find(num); // iterator
+m.begin();
+m.end();
 ```
