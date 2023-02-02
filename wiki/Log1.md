@@ -77,14 +77,56 @@
     (4) [오등큰수 (17299번)](https://www.acmicpc.net/problem/17299)
     - 시간 : [30분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/12_17299.cpp)
     - 오큰수랑 비슷하니까 금방 하겠지? 라고 생각했는데 오산.. map을 사용하니 시간초과가 떴다. 그래서 vector로 하니 맞았음. 스택을 이용해서 한번 훑기 잘 기억하자 !!
-    
 
     <br>
 
 3. 자료구조1 (참고)
 
-    (1) 
-    - 시간 : 
+    (1) [후위 표기식2 (1935번)](https://www.acmicpc.net/problem/1935)
+    - 시간 : [35분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/13_1935.cpp)
+    - 데구 때 했던 postfix 문제랑 다른건데 거기에 집착하느라 초반에 잘못 생각함.. 20억까지의 수라 float 쓰면 틀림 double 써야 했음! 차근차근 생각하기
+
+    <br>
+
+    (2) [후위 표기식 (1918번)](https://www.acmicpc.net/problem/1918)
+    - 시간 : [30분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/14_1918.cpp)
+    - 지겹도록 공부했던 infix -> postfix 바꾸는 프로그램.. 왜 어려워하니.. '('의 우선순위가 0이라는 사실을 잘 기억해야겠다. + '('은 push만 하기! 나머지는 잘 기억했움 괄호를 처리하는게 어렵군요,,, 
+
+    <br>
+
+    (3) [알파벳 개수 (10808번)](https://www.acmicpc.net/problem/10808)
+    - 시간 : [3분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/15_10808.cpp)
+    - 왜 풀라고 했지.. 의미를 알 수 없는 문제
+
+    <br>
+
+    (4) [알파벳 찾기 (10809번)](https://www.acmicpc.net/problem/10809)
+    - 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/16_10809.cpp)
+    - string의 find를 어제 공부해서 아주 쉽게 풀 수 있었다!
+
+    <br>
+
+    (5) [문자열 분석 (10820번)](https://www.acmicpc.net/problem/10820)
+    - 시간 : [13분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/17_10820.cpp)
+    - 문자열 여러줄 읽는 연습, EOF에 대한 이해
+
+    <br>
+
+    (6) [ROT13 (11655번)](https://www.acmicpc.net/problem/11655)
+    - 시간 : [27분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/18_11655.cpp)
+    - 킹받 ,, 로직은 똑같은데 대문자만 되고 소문자는 안돼서 왜그러지 싶었는데 소문자는 13 더하면 127을 넘어가서 그랬다 ㅜㅜ... 아스키 코드는 127번까지 있으니 그 이상을 다루고 싶을 때는 char 대신 int로!
+
+    <br>
+
+    (7) [네 수 (10824번)](https://www.acmicpc.net/problem/10824)
+    - 시간 : [16분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/19_10824.cpp)
+    - 쉬운데 배울게 많았음. 역시나 범위, 타입 조심하구 거기까지 눈치채긴 했는데 설마 그게 문제일줄은 몰랐다... math 라이브러리는 cmath
+
+    <br>
+
+    (8) [접미사 배열 (11656번)](https://www.acmicpc.net/problem/11656)
+    - 시간 : 4분
+    - algorithm의 sort를 이용하여 금방 해결했다. 풀이를 보다보니 set을 사용하여 해결한 사람이 있었는데, set은 insert할 때 sorting해서 들어가기 때문이었다.
 
     <br>
 
