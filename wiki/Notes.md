@@ -20,9 +20,9 @@ ios_base::sync_with_stdio(false);
 cin.tie(NULL);
 cout.tie(NULL);
 ```
-
-## 1. STL
 ---
+## 1. STL
+
 ### 1. Container
 #### Stack
 ```:cpp
@@ -126,8 +126,57 @@ for_each(begin_iter, end_iter, func);
 for_each(s.begin(), s.end(), [](int n) {cout << n << endl;});
 ```
 
+#### min, max
+```:cpp
+min(a, b);
+max(a, b);
+```
+
+#### vector unique
+```:cpp
+sort(v.begin(), v.end());
+v.erase(unique(v.begin(), v.end()), v.end());
+// or using set
+#include <set>
+set<type> s(v.begin(), v.end());
+```
+
 ---
 ## 2. Others
+
+### 1. 수학
+
+#### 소수 (Prime number)
+- 에라토스테네스의 체
+    ```:cpp
+    for(int i = 2; i <= sqrt(n); i ++) {
+        if(arr[i] == 0) continue;
+        for(int j = 2*i; j <= n; j += i) {
+            arr[j] = 0;
+        }
+    }
+    ```
+    - 소수를 찾을 때 sqrt(n)까지만 확인해도 배수로 다 지워짐
+
+#### 최대공약수와 최소공배수
+- 유클리드 호제법
+    ```:cpp
+    // gcd
+    int g = max(a,b);
+    int l = min(a,b);
+    while(l > 0) {
+        int tmp = g % l;
+        g = l;
+        l = tmp;
+    }
+    
+    // lcm
+    int lcm = a*b/g;
+    ```
+
+
+---
+### 2. etc
 #### 10진수 -> 2진수 변환
 - 2로 계속 나누기
 - shift 연산 이용

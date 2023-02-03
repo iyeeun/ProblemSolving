@@ -130,5 +130,57 @@
 
     <br>
 
+### 수학
+
+1. 수학 1
+
+    (1) [나머지 (10430번)](https://www.acmicpc.net/problem/10430)
+    - [시간 : 2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/21_10430.cpp)
+
+    <br>
+
+    (2) [최대공약수와 최소공배수 (2609번)](https://www.acmicpc.net/problem/2609)
+    - [시간 : 35분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/22_2609.cpp)
+    - 유클리드 호제법 공부하면서 풀었다. . . 잘 이해 안됨 사실 그냥 받아들였다.. 잘 기억하기!
+
+    <br>
+
+    (3) [최소공배수 (1934번)](https://www.acmicpc.net/problem/1934)
+    - [시간 : 3분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/23_1934.cpp)
+
+    <br>
+
+    (4) [소수 찾기 (1978번)](https://www.acmicpc.net/problem/1978)
+    - [시간 : 6분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/24_1978.cpp)
+
+    <br>
+
+    (5) [소수 구하기 (1929번)](https://www.acmicpc.net/problem/1929)
+    - [시간 : 9분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/25_1929.cpp)
+
+    <br>
+
+    (6) [골드바흐의 추측 (6588번)](https://www.acmicpc.net/problem/6588)
+    - [시간 : 17분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/26_6588.cpp)
+    - 완전 너무한 문제.. ㅜㅜㅜ
+
+    <br>
+
+    (7) [팩토리얼 (10872번)](https://www.acmicpc.net/problem/10872)
+    - [시간 : 3분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/27_10872.cpp)
+
+    <br>
+
+    (8) [팩토리얼 0의 개수 (1676번)](https://www.acmicpc.net/problem/1676)
+    - [시간 : 13분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/28_1676.cpp)
+    - 0 개수 => 5로 나누어지는 개수 이용
+
+    <br>
+
+    (9) [조합 0의 개수 (2004번)](https://www.acmicpc.net/problem/2004)
+    - [시간 : 17분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/1_10828.cpp)
+
+    <br>
+
 <br>
 <br>
