@@ -49,3 +49,21 @@
 (10) [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)
 - [시간 : 17분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/12.cpp)
 - 17분이긴 한데 서치해서 공부한거.. sqrt(n)까지만 하면 되는거는 기억하고 있어서 했는데 그래도 효율성 테스트 통과를 못했다. 결국은 에라토스테네스의 체를 써야 했다. 
+
+(11) [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
+- [시간 : 5분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/13.cpp)
+
+(12) [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
+- [시간 : 34분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/14.cpp)
+- 로직보다 배열이 간단했음
+
+(13) [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) 
+- [시간 : 3분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/15.cpp)
+- O(N^3) 말고 다른 풀이가 있을까? DP로 가능할 것 같기도 해서 나중에 풀어보면 좋을듯 (^_^)
+
+(14) [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
+- [시간 : 5분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/16.cpp)
+
+(15) [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
+- [시간 : 34분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/17.cpp)
+- pair과 vector를 잘 쓰지 못하는 거에서 초반 시간이 많이 나갔고, 어떤 정보가 필요한지 확인하지 않아 바꾸는 과정에서 시간이 많이 소요되었다. 또한 문제 조건을 제대로 읽지 않아서 틀린 부분도 있었다.

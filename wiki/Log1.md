@@ -178,7 +178,48 @@
     <br>
 
     (9) [조합 0의 개수 (2004번)](https://www.acmicpc.net/problem/2004)
-    - [시간 : 17분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/1_10828.cpp)
+    - [시간 : 3시간](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/29_2004.cpp)
+    - 못풀었다... ㅜㅜ 시간초과.... 틀리기도 계속 틀리고 ㅜㅜ 다 바꿨다고 생각했는데 시간초과 나와서 이젠 모르겠다... 하하하하
+    - 하나하나 세면서 5/2로 얼만큼 나눠지는지 보는 것은 시간 초과 뜨는 듯. 
+
+    <br>
+
+2. 수학 1 (연습)
+
+    (1) [GCD 합 (9613번)](https://www.acmicpc.net/problem/9613)
+    - 시간 :
+
+    <br>
+
+    (2) [숨바꼭질 6 (17087번)](https://www.acmicpc.net/problem/17087)
+    - 시간 :
+
+    <br>
+
+    (3) [2진수 8진수 (1373번)](https://www.acmicpc.net/problem/1373)
+    - 시간 :
+
+    <br>
+
+    (4) [8진수 2진수 (1212번)](https://www.acmicpc.net/problem/1212)
+    - 시간 :
+
+    <br>
+
+    (5) [-2진수 (2089번)](https://www.acmicpc.net/problem/2089)
+    - 시간 :
+
+    <br>
+
+    (6) [골드바흐 파티션 (17103번)](https://www.acmicpc.net/problem/17103)
+    - 시간 :
+
+    <br>
+
+3. 수학 1 (참고)
+
+    (1) [GCD 합 (9613번)](https://www.acmicpc.net/problem/9613)
+    - 시간 :
 
     <br>
 
