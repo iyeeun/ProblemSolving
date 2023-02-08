@@ -67,3 +67,19 @@
 (15) [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
 - [시간 : 34분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/17.cpp)
 - pair과 vector를 잘 쓰지 못하는 거에서 초반 시간이 많이 나갔고, 어떤 정보가 필요한지 확인하지 않아 바꾸는 과정에서 시간이 많이 소요되었다. 또한 문제 조건을 제대로 읽지 않아서 틀린 부분도 있었다.
+
+(16) [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
+- [시간 : 18분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/18.cpp)
+
+(17) [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
+- [시간 : 24분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/19.cpp)
+- assign 이런거 쓰니까 시간 초과해서 최적화 했더니 됨
+
+(18) [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
+- [시간 : 18분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/20.cpp)
+
+(19) [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)
+- [시간 : 8분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/21.cpp)
+
+(20) [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
+- [시간 : 20분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/22.cpp)

@@ -181,45 +181,66 @@
     - [시간 : 3시간](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/29_2004.cpp)
     - 못풀었다... ㅜㅜ 시간초과.... 틀리기도 계속 틀리고 ㅜㅜ 다 바꿨다고 생각했는데 시간초과 나와서 이젠 모르겠다... 하하하하
     - 하나하나 세면서 5/2로 얼만큼 나눠지는지 보는 것은 시간 초과 뜨는 듯. 
+    - k!의 i 개수를 알려면 k/i^n을 구하면 된다.
 
     <br>
 
 2. 수학 1 (연습)
 
     (1) [GCD 합 (9613번)](https://www.acmicpc.net/problem/9613)
-    - 시간 :
+    - 시간 : [15분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/30_9613.cpp)
+    - 유클리드 호제법 암기하기..! + 범위에 따라 알맞은 자료형 사용
 
     <br>
 
     (2) [숨바꼭질 6 (17087번)](https://www.acmicpc.net/problem/17087)
-    - 시간 :
+    - 시간 : [19분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/31_17087.cpp)
+    - 모든 경우에 대해 살펴보는게 시간 초과가 나서 바로 다음만 보니까 맞음
+    - 3가지의 숫자에 대한 최대공약수는 gcd(gdc(a, b), c)로 구하면 됨
 
     <br>
 
     (3) [2진수 8진수 (1373번)](https://www.acmicpc.net/problem/1373)
-    - 시간 :
+    - 시간 : [22분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/32_1373.cpp)
 
     <br>
 
     (4) [8진수 2진수 (1212번)](https://www.acmicpc.net/problem/1212)
-    - 시간 :
+    - 시간 : [13분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/33_1212.cpp)
 
     <br>
 
     (5) [-2진수 (2089번)](https://www.acmicpc.net/problem/2089)
-    - 시간 :
+    - 시간 : [23분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/33_1212.cpp)
+    - 좀 생각하다가 모르겠어서 바로 구글링 했다. [참고한 문서는 여기](https://jun-coding.tistory.com/195)! 음수 % 연산에서 n-1하고 연산하는 팁을 기억해야겠다.
 
     <br>
 
     (6) [골드바흐 파티션 (17103번)](https://www.acmicpc.net/problem/17103)
-    - 시간 :
+    - 시간 : [25분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/33_1212.cpp)
+    - 에라토스테네스의 체 이용해서 미리 저장해놓고, 합 계산하는 방식을 이용함.
 
     <br>
 
 3. 수학 1 (참고)
 
-    (1) [GCD 합 (9613번)](https://www.acmicpc.net/problem/9613)
-    - 시간 :
+    (1) [진법 변환 2 (11005번)](https://www.acmicpc.net/problem/11005)
+    - 시간 : [13분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/33_1212.cpp)
+
+    <br>
+
+    (2) [진법 변환 (2745번)](https://www.acmicpc.net/problem/2745)
+    - 시간 : [13분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/33_1212.cpp)
+
+    <br>
+
+    (3) [Base Conversion (11576번)](https://www.acmicpc.net/problem/11576)
+    - 시간 : [13분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/33_1212.cpp)
+
+    <br>
+
+    (4) [소인수분해 (11653번)](https://www.acmicpc.net/problem/11653)
+    - 시간 : [13분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/33_1212.cpp)
 
     <br>
 
