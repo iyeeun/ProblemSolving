@@ -83,3 +83,20 @@
 
 (20) [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
 - [시간 : 20분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/22.cpp)
+
+(21) [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+- [시간 : 5분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/23.cpp)
+
+(22) [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
+- [시간 : 26분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/24.cpp)
+
+(23) [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
+- [시간 : 21분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/25.cpp)
+- 고정된 값은 미리 만들고 보기, 미리 만들 때 배수라는 점을 이용하기
+
+(24) [[카카오 인턴] 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)
+- [시간 : 25분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/26.cpp)
+
+(25) [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+- [시간 : 1시간 27분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/27.cpp)
+- 진짜 오래걸렸따..! 문제에 주어지는 조건을 잘 보기

@@ -125,7 +125,7 @@
     <br>
 
     (8) [접미사 배열 (11656번)](https://www.acmicpc.net/problem/11656)
-    - 시간 : 4분
+    - 시간 : [4분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/20_11656.cpp)
     - algorithm의 sort를 이용하여 금방 해결했다. 풀이를 보다보니 set을 사용하여 해결한 사람이 있었는데, set은 insert할 때 sorting해서 들어가기 때문이었다.
 
     <br>
@@ -225,24 +225,43 @@
 3. 수학 1 (참고)
 
     (1) [진법 변환 2 (11005번)](https://www.acmicpc.net/problem/11005)
-    - 시간 : [13분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/33_1212.cpp)
+    - 시간 : [8분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/36_11005.cpp)
 
     <br>
 
     (2) [진법 변환 (2745번)](https://www.acmicpc.net/problem/2745)
-    - 시간 : [13분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/33_1212.cpp)
+    - 시간 : [8분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/37_2745.cpp)
 
     <br>
 
     (3) [Base Conversion (11576번)](https://www.acmicpc.net/problem/11576)
-    - 시간 : [13분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/33_1212.cpp)
+    - 시간 : [46분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/33_1212.cpp)
+    - 알맞은 자료형 사용하기
 
     <br>
 
     (4) [소인수분해 (11653번)](https://www.acmicpc.net/problem/11653)
-    - 시간 : [13분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/33_1212.cpp)
+    - 시간 : [16분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/39_11653.cpp)
+    - 소인수분해라 소수인지도 판별해야한다고 생각했는데 그냥 나누어떨어지면 되나보다...!
 
     <br>
+
+### 다이나믹 프로그래밍
+
+1. 다이나믹 프로그래밍 1
+
+    (1) [1로 만들기 (1463번)](https://www.acmicpc.net/problem/1463)
+    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/40_1463.cpp)
+    - 조건 꼼꼼히!
+
+    <br>
+
+    (1) [1로 만들기 (1463번)](https://www.acmicpc.net/problem/1463)
+    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/40_1463.cpp)
+    - 조건 꼼꼼히!
+
+    <br>
+
 
 <br>
 <br>

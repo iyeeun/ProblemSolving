@@ -174,6 +174,17 @@ set<type> s(v.begin(), v.end());
     int lcm = a*b/g;
     ```
 
+#### 소인수분해
+```:cpp
+for (int i = 2; i <= n;) {
+    if (n % i == 0) {
+        cout << i << '\n';
+        n /= i;
+    } else {
+        i++;
+    }
+}
+```
 
 ---
 ### 2. etc
@@ -191,3 +202,18 @@ set<type> s(v.begin(), v.end());
     #include <bitset>
     bitset<n> x;
     ```
+
+#### 10진수 -> n진수 변환
+- n으로 계속 나누는 방법 사용 (문자열 or 숫자 거꾸로 돌려야함)
+    ```:cpp
+    while(num > 0) {
+        int tmp = num % n;
+        num /= n;
+        str = arr[tmp] + str;
+    }
+    ```
+
+#### 배열 초기화
+```:cpp
+fill_n(arr, len, value);
+```
