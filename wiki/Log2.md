@@ -100,3 +100,19 @@
 (25) [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
 - [시간 : 1시간 27분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/27.cpp)
 - 진짜 오래걸렸따..! 문제에 주어지는 조건을 잘 보기
+
+(26) [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)
+- [시간 : 10분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/28.cpp)
+
+(27) [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)
+- [시간 : 22분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/29.cpp)
+
+(28) [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
+- [시간 : 19분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/30.cpp)
+
+(29) [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
+- [시간 : 9분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/31.cpp)
+
+(30) [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
+- [시간 : 36분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/32.cpp)
+- 어려웠다.....

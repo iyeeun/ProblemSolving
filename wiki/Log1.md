@@ -256,9 +256,72 @@
 
     <br>
 
-    (1) [1로 만들기 (1463번)](https://www.acmicpc.net/problem/1463)
-    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/40_1463.cpp)
-    - 조건 꼼꼼히!
+    (2) [2xn 타일링 (11726번)](https://www.acmicpc.net/problem/11726)
+    - 시간 : [31분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/41_11726.cpp)
+    - base case 잘 선택하기
+
+    <br>
+
+    (3) [2xn 타일링 2 (11727번)](https://www.acmicpc.net/problem/11727)
+    - 시간 : [8분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/42_11727.cpp)
+
+    <br>
+
+    (4) [1, 2, 3 더하기 (9095번)](https://www.acmicpc.net/problem/9095)
+    - 시간 : [4분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/43_9095.cpp)
+
+    <br>
+
+    (5) [카드 구매하기 (11052번)](https://www.acmicpc.net/problem/11052)
+    - 시간 : [17분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/44_11052.cpp)
+    - 문제 간소화하기
+
+    <br>
+
+    (6) [카드 구매하기 2 (16194번)](https://www.acmicpc.net/problem/16194)
+    - 시간 : [1분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/45_16194.cpp)
+    - 문제가 너무 똑같아서 그냥 복붙하고 부호 하나 바꿈..
+
+    <br>
+
+    (7) [1, 2, 3 더하기 5 (15990번)](https://www.acmicpc.net/problem/15990)
+    - 시간 : [34분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/46_15990.cpp)
+    - 결과에 % 해야하는 건 구할 때도 계속 % 해야 오버플로우를 막을 수 있음
+
+    <br>
+
+    (8) [쉬운 계단 수 (10844번)](https://www.acmicpc.net/problem/10844)
+    - 시간 : [17분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/47_10844.cpp)
+
+    <br>
+
+    (9) [이친수 (2193번)](https://www.acmicpc.net/problem/2193)
+    - 시간 : [13분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/48_2193.cpp)
+
+    <br>
+
+    (10) [가장 긴 증가하는 부분 수열 (11053번)](https://www.acmicpc.net/problem/11053)
+    - 시간 : [31분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/41_11726.cpp)
+
+    <br>
+
+    (11) [가장 긴 증가하는 부분 수열 4 (14002번)](https://www.acmicpc.net/problem/14002)
+    - 시간 : [31분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/41_11726.cpp)
+
+    <br>
+
+    (12) [연속합 (1912번)](https://www.acmicpc.net/problem/1912)
+    - 시간 : [31분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/41_11726.cpp)
+
+    <br>
+
+    (13) [제곱수의 합 (1699번)](https://www.acmicpc.net/problem/1699)
+    - 시간 : [31분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/41_11726.cpp)
+
+    <br>
+
+    (14) [합분해 (2225번)](https://www.acmicpc.net/problem/2225)
+    - 시간 : [31분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/41_11726.cpp)
 
     <br>
 
