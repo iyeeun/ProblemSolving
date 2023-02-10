@@ -322,7 +322,8 @@
     <br>
 
     (14) [합분해 (2225번)](https://www.acmicpc.net/problem/2225)
-    - 시간 : [31분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/41_11726.cpp)
+    - 시간 : [1시간 03분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/53_2225.cpp)
+    - DP 구조를 어떻게 해야 빨리 찾아낼 수 있을지 모르겠다. 그리고 항상 인덱스 조심 !!
 
     <br>
 
