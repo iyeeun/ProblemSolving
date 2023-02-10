@@ -301,22 +301,23 @@
     <br>
 
     (10) [가장 긴 증가하는 부분 수열 (11053번)](https://www.acmicpc.net/problem/11053)
-    - 시간 : [31분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/41_11726.cpp)
+    - 시간 : [7분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/49_11053.cpp)
 
     <br>
 
     (11) [가장 긴 증가하는 부분 수열 4 (14002번)](https://www.acmicpc.net/problem/14002)
-    - 시간 : [31분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/41_11726.cpp)
+    - 시간 : [28분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/50_14002.cpp)
+    - 전에 진짜 못풀었던 기억이 있는데 비교적 쉽게 해결했다. 히히
 
     <br>
 
     (12) [연속합 (1912번)](https://www.acmicpc.net/problem/1912)
-    - 시간 : [31분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/41_11726.cpp)
+    - 시간 : [9분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/51_1912.cpp)
 
     <br>
 
     (13) [제곱수의 합 (1699번)](https://www.acmicpc.net/problem/1699)
-    - 시간 : [31분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/41_11726.cpp)
+    - 시간 : [9분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/52_1699.cpp)
 
     <br>
 

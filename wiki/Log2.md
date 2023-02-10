@@ -116,3 +116,21 @@
 (30) [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
 - [시간 : 36분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/32.cpp)
 - 어려웠다.....
+
+(31) [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
+- [시간 : 24분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/33.cpp)
+
+(32) [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+- [시간 : 1시간 03분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/34.cpp)
+- 시간 문제 + string 문제. split find 이용하기, 효율
+
+(33) [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
+- [시간 : 40분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/35.cpp)
+
+### 2단계
+
+(1) [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+- 시간 : [6분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/36.cpp)
+
+(2) [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+- 시간 : [3분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/37.cpp)
