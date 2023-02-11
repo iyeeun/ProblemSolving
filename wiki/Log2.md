@@ -134,3 +134,19 @@
 
 (2) [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 - 시간 : [3분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/37.cpp)
+
+(3) [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
+- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/38.cpp)
+
+(4) [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/39.cpp)
+
+(5) [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
+- 시간 : [11분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/40.cpp)
+
+(6) [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
+- 시간 : [1시간 2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/41.cpp)
+- 약수 이용해서 푸는 방법, 브루트포스로 푸는 방법 등등 있지만 나는 내가 창조했다. 음하핳ㅅ 그게 그거 같지만 뿌듯하다. 그리고 언제나 예외주의 !
+
+(7) [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/42.cpp)

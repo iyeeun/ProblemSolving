@@ -327,6 +327,74 @@
 
     <br>
 
+2. 다이나믹 프로그래밍 1 (연습)
+
+    (1) [1, 2, 3 더하기 3 (15988번)](https://www.acmicpc.net/problem/15988)
+    - 시간 : [9분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/54_15988.cpp)
+    - long ,,, 부숴버릴거야...
+
+    <br>
+
+    (2) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
+    - 시간 : [31분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/55_1149.cpp)
+    - 그 전의 DP 문제랑 다른 것 같고 잘 모르겠고 해서 [서치](https://cryptosalamander.tistory.com/84)했다. 알고보니 쉬운 문제! DP는 **작은 문제**로 잘 나누자
+
+    <br>
+
+    (3) [동물원 (1309번)](https://www.acmicpc.net/problem/1309)
+    - 시간 : [43분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/56_1309.cpp)
+    - 어려웠다... ㅜㅜㅜ 뭐에 따라 값이 바뀌는지 생각해볼것!
+
+    <br>
+
+    (4) [오르막 수 (11057번)](https://www.acmicpc.net/problem/11057)
+    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/11057.cpp)
+    - 조건 꼼꼼히!
+
+    <br>
+
+    (2) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
+    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/55_1149.cpp)
+    - 조건 꼼꼼히!
+
+    <br>
+
+    (2) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
+    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/55_1149.cpp)
+    - 조건 꼼꼼히!
+
+    <br>
+
+    (2) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
+    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/55_1149.cpp)
+    - 조건 꼼꼼히!
+
+    <br>
+
+    (2) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
+    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/55_1149.cpp)
+    - 조건 꼼꼼히!
+
+    <br>
+
+    (2) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
+    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/55_1149.cpp)
+    - 조건 꼼꼼히!
+
+    <br>
+
+    (2) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
+    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/55_1149.cpp)
+    - 조건 꼼꼼히!
+
+    <br>
+
+    (2) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
+    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/55_1149.cpp)
+    - 조건 꼼꼼히!
+
+    <br>
+
 
 <br>
 <br>
