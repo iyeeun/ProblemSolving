@@ -363,9 +363,9 @@
 
     <br>
 
-    (7) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
-    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/55_1149.cpp)
-    - 조건 꼼꼼히!
+    (7) [정수 삼각형 (1932번)](https://www.acmicpc.net/problem/1932)
+    - 시간 : [37분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/60_1932.cpp)
+    - DP는 작은 문제들로 나누는 것! **작은 문제 != 이전 상태 이용** 같은 구조로 작게 나눌 수 있는지를 봐야함!!
 
     <br>
 
