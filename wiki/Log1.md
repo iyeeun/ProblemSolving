@@ -327,7 +327,7 @@
 
     <br>
 
-2. 다이나믹 프로그래밍 1 (연습)
+2. 다이나믹 프로그래밍 1 (연습+도전)
 
     (1) [1, 2, 3 더하기 3 (15988번)](https://www.acmicpc.net/problem/15988)
     - 시간 : [9분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/54_15988.cpp)
@@ -369,19 +369,29 @@
 
     <br>
 
-    (8) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
+    (8) [가장 큰 증가 부분 수열 (11055번)](https://www.acmicpc.net/problem/11055)
+    - 시간 : [7분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/61_11055.cpp)
+
+    <br>
+
+    (9) [가장 긴 감소하는 부분 수열 (11722번)](https://www.acmicpc.net/problem/11722)
+    - 시간 : [4분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/62_11722.cpp)
+
+    <br>
+
+    (10) [가장 긴 바이토닉 부분 수열 (11054번)](https://www.acmicpc.net/problem/11054)
+    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/63_11054.cpp)
+    - 조건 꼼꼼히!
+
+    <br>
+
+    (11) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
     - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/55_1149.cpp)
     - 조건 꼼꼼히!
 
     <br>
 
-    (9) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
-    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/55_1149.cpp)
-    - 조건 꼼꼼히!
-
-    <br>
-
-    (10) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
+    (11) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
     - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/55_1149.cpp)
     - 조건 꼼꼼히!
 
