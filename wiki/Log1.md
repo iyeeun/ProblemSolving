@@ -385,8 +385,8 @@
 
     <br>
 
-    (11) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
-    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/55_1149.cpp)
+    (11) [연속합 2 (13398번)](https://www.acmicpc.net/problem/13398)
+    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/64_13398.cpp)
     - 조건 꼼꼼히!
 
     <br>

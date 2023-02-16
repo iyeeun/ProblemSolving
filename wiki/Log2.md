@@ -150,3 +150,19 @@
 
 (7) [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
 - 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/42.cpp)
+
+(8) [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
+- 시간 : [35분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/43.cpp)
+
+(9) [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
+- 시간 : [37분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/44.cpp)
+- 어려운 문제는 아니었지만 오늘 머리가 없었기 때문에... ㅎ 그래도 결국 풀었다. 자료구조의 중요성 !
+
+(10) [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
+- 시간 : [29분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/45.cpp)
+
+(7) [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/42.cpp)
+
+(7) [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/42.cpp)

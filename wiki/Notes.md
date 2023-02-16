@@ -190,6 +190,13 @@ for (int i = 2; i <= n;) {
 ### 2. etc
 #### 10진수 -> 2진수 변환
 - 2로 계속 나누기
+    ```:cpp
+    while(num > 0) {
+        int tmp = num % 2;
+        num /= 2;
+        str = to_string[tmp] + str;
+    }
+    ```
 - shift 연산 이용
     ```:cpp
     for (int i = n; i >= 0; i--) {
