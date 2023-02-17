@@ -161,8 +161,17 @@
 (10) [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
 - 시간 : [29분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/45.cpp)
 
-(7) [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
-- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/42.cpp)
+(11) [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+- 시간 : [23분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/46.cpp)
 
-(7) [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
-- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/42.cpp)
+(12) [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
+- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/47.cpp)
+
+(12) [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
+- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/47.cpp)
+
+(12) [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
+- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/47.cpp)
+
+(12) [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
+- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/47.cpp)
