@@ -165,7 +165,8 @@
 - 시간 : [23분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/46.cpp)
 
 (12) [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
-- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/47.cpp)
+- 시간 : [1시간 18분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/47.cpp)
+- 꽤나 많이 헤맸다. 우선 2명만 탈 수 있다는 문제 조건을 제대로 파악하지 못했고, 가장 무거운 사람 + 가장 가벼운 사람 조합도 생각하지 못했고, deque를 사용할 생각도 못했다. 허허허... 문제가 많네요 ^_^
 
 (12) [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
 - 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/47.cpp)
