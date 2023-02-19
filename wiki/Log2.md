@@ -168,11 +168,19 @@
 - 시간 : [1시간 18분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/47.cpp)
 - 꽤나 많이 헤맸다. 우선 2명만 탈 수 있다는 문제 조건을 제대로 파악하지 못했고, 가장 무거운 사람 + 가장 가벼운 사람 조합도 생각하지 못했고, deque를 사용할 생각도 못했다. 허허허... 문제가 많네요 ^_^
 
-(12) [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
-- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/47.cpp)
+(13) [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
+- 시간 : [5분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/48.cpp)
 
-(12) [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
-- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/47.cpp)
+(14) [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
+- 시간 : [20분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/49.cpp)
+- n개의 최대공약수 / 최소공배수 구하기 => 두 수에 대한 결과에 새로운 수와의 결과를 반복해서 구함
 
-(12) [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
-- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/47.cpp)
+(15) [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
+- 시간 : [15분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/50.cpp)
+- 처음에는 DP로 접근했지만 효율에서 다 빵꾸나서 다시 로직을 생각해봄. 간단 계산 문제
+
+(16) [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
+- 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/51.cpp)
+
+(17) [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+- 시간 : [10분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/52.cpp)

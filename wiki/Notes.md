@@ -100,7 +100,7 @@ s.insert(3); // pair<iterator, bool>
 s.begin();
 s.end();
 s.find(); // iterator or end()
-s.count();
+s.count(); // => faster than find()
 s.lower_bound(3); // 3 <= iterator
 s.upper_bound(3);
 // Index Access Impossible => iterator
