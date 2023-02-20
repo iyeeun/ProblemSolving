@@ -184,3 +184,12 @@
 
 (17) [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
 - 시간 : [10분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/52.cpp)
+
+(18) [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
+- 시간 : [24분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/53.cpp)
+
+(19) [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
+- 시간 : [10분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/52.cpp)
+
+(20) [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
+- 시간 : [5분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/55.cpp)

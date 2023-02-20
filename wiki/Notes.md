@@ -186,6 +186,16 @@ for (int i = 2; i <= n;) {
 }
 ```
 
+#### 약수 구하기
+```:cpp
+for(int i = 1; i*i <= n; i ++) {
+    if(n % i == 0) {
+        answer += i;
+        if(n/i != i) answer += n/i;
+    }
+}
+```
+
 ---
 ### 2. etc
 #### 10진수 -> 2진수 변환
