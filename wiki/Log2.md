@@ -189,7 +189,8 @@
 - 시간 : [24분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/53.cpp)
 
 (19) [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
-- 시간 : [10분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/52.cpp)
+- 시간 : [55분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/54.cpp)
+- 로직 문제보다 .. iterator 이용해서 꺼낸 벡터는 값이 변경이 안돼서 못풀었던 것 같다. 물론 다양한 테스트 케이스를 스스로 떠올리는 것도 많이 연습해야 할 것 같다.!
 
 (20) [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
 - 시간 : [5분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/55.cpp)
