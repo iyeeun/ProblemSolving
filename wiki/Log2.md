@@ -194,3 +194,6 @@
 
 (20) [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
 - 시간 : [5분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/55.cpp)
+
+(21) [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
+- 시간 : [9분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/56.cpp)
