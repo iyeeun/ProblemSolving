@@ -391,18 +391,44 @@
 
     <br>
 
-    (11) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
-    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/55_1149.cpp)
+    (12) [타일 채우기 (2133번)](https://www.acmicpc.net/problem/2133)
+    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/65_1149.cpp)
     - 조건 꼼꼼히!
 
     <br>
 
-    (11) [RGB거리 (1149번)](https://www.acmicpc.net/problem/1149)
-    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/55_1149.cpp)
+    (13) [RGB거리 2 (17404번)](https://www.acmicpc.net/problem/17404)
+    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/66_17404.cpp)
     - 조건 꼼꼼히!
 
     <br>
-
 
 <br>
+
+## [알고리즘 기초 2](https://code.plus/course/42)
+
+### 브루트 포스
+
+1. 브루트 포스
+
+    (1) [일곱 난쟁이 (2309번)](https://www.acmicpc.net/problem/2309)
+    - 시간 : [7분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/67_2309.cpp)
+
+    <br>
+
+    (2) [사탕 게임 (3085번)](https://www.acmicpc.net/problem/3085)
+    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/68_3085.cpp)
+
+    <br>
+
+    (3) [날짜 계산 (1476번)](https://www.acmicpc.net/problem/1476)
+    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/69_1476.cpp)
+
+    <br>
+
+    (4) [리모컨 (1107번)](https://www.acmicpc.net/problem/1107)
+    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/70_1107.cpp)
+
+    <br>
+
 <br>
