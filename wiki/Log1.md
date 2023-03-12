@@ -417,17 +417,77 @@
     <br>
 
     (2) [사탕 게임 (3085번)](https://www.acmicpc.net/problem/3085)
-    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/68_3085.cpp)
+    - 시간 : [21분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/68_3085.cpp)
 
     <br>
 
     (3) [날짜 계산 (1476번)](https://www.acmicpc.net/problem/1476)
-    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/69_1476.cpp)
+    - 시간 : [10분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/69_1476.cpp)
 
     <br>
 
     (4) [리모컨 (1107번)](https://www.acmicpc.net/problem/1107)
-    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/70_1107.cpp)
+    - 시간 : [51분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/70_1107.cpp)
+    - 특정 범위 안에 전체 케이스가 다 들어오면 구분하지 않고 모든 경우를 확인해보는 것이 더 좋음!
+
+    <br>
+
+    (5) [테트로미노 (14500번)](https://www.acmicpc.net/problem/14500)
+    - 시간 : [56분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/71_14500.cpp)
+
+    <br>
+
+    (6) [카잉 달력 (6064번)](https://www.acmicpc.net/problem/6064)
+    - 시간 : [17분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/72_6064.cpp)
+
+    <br>
+
+    (7) [수 이어 쓰기 1 (1748번)](https://www.acmicpc.net/problem/1748)
+    - 시간 : [7분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/73_1748.cpp)
+
+    <br>
+
+2. 브루트 포스 (N과 M)
+
+    (1) [N과 M (1) (15649번)](https://www.acmicpc.net/problem/15649)
+    - 시간 : [16분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/74_15649.cpp)
+    - 강의 내용 참고해서 해봤지만 ,, 아직은 내 것은 아닌 느낌!
+
+    <br>
+
+    (2) [N과 M (2) (15650번)](https://www.acmicpc.net/problem/15650)
+    - 시간 : [6분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/75_15650.cpp)
+
+    <br>
+
+    (3) [N과 M (3) (15651번)](https://www.acmicpc.net/problem/15651)
+    - 시간 : [5분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/76_15651.cpp)
+
+    <br>
+
+    (4) [N과 M (4) (15652번)](https://www.acmicpc.net/problem/15652)
+    - 시간 : [3분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/77_15652.cpp)
+    - 선택의 문제로도 해결 가능 -> [풀이](../problems/part1/77_15652_2.cpp)
+
+    <br>
+
+    (5) [N과 M (5) (15654번)](https://www.acmicpc.net/problem/15654)
+    - 시간 : [9분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/78_15654.cpp)
+
+    <br>
+
+    (6) [N과 M (6) (15655번)](https://www.acmicpc.net/problem/15655)
+    - 시간 : [14분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/79_15655.cpp)
+
+    <br>
+
+    (7) [N과 M (7) (15656번)](https://www.acmicpc.net/problem/15656)
+    - 시간 : [11분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/80_15656.cpp)
+
+    <br>
+
+    (8) [N과 M (8) (15657번)](https://www.acmicpc.net/problem/15657)
+    - 시간 : [7분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/81_15657.cpp)
 
     <br>
 
