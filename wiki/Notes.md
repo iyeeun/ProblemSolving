@@ -111,7 +111,7 @@ for(set<int>::iterator iter = s.begin(); iter != s.end(); iter ++) {*iter;}
 ### 2. Algorithm
 #### 정렬 (sort)
 ```:cpp
-sort(arr, arr+n);
+sort(arr, arr+n); // 기본 배열
 sort(v.begin(), v.end()); // iterator
 sort(v.begin(), v.end(), compare); //사용자 정의 함수 compare 사용
 sort(v.begin(), v.end(), greater<type>()); //내림차순

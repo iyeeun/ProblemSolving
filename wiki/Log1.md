@@ -491,4 +491,24 @@
 
     <br>
 
+    (9) [N과 M (9) (15663번)](https://www.acmicpc.net/problem/15663)
+    - 시간 : [21분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/82_15663.cpp)
+
+    <br>
+
+    (10) [N과 M (10) (15664번)](https://www.acmicpc.net/problem/15664)
+    - 시간 : [6분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/83_15664.cpp)
+
+    <br>
+
+    (11) [N과 M (11) (15665번)](https://www.acmicpc.net/problem/15665)
+    - 시간 : [7분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/84_15665.cpp)
+
+    <br>
+
+    (12) [N과 M (12) (15666번)](https://www.acmicpc.net/problem/15666)
+    - 시간 : [5분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/85_15666.cpp)
+
+    <br>
+
 <br>
