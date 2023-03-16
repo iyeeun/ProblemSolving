@@ -512,3 +512,45 @@
     <br>
 
 <br>
+
+3. 브루트 포스 (재귀)
+
+    (1) [1, 2, 3 더하기 (9095번)](https://www.acmicpc.net/problem/9095)
+    - 시간 : [5분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/86_9095.cpp)
+    - DP가 익숙한 문제지만 재귀로도 해결 가능. 베이스보다 오히려 recursive step 잡는게 헷갈렸음.
+
+    <br>
+
+    (2) [암호 만들기 (1759번)](https://www.acmicpc.net/problem/1759)
+    - 시간 : [13분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/87_1759.cpp)
+    - N과 M 문제와 동일한 패턴이라는 것을 알기!
+
+    <br>
+
+    (3) [퇴사 (14501번)](https://www.acmicpc.net/problem/14501)
+    - 시간 : [18분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/88_14501.cpp)
+    - 인덱스 에러 조심.. 생각을 하고 살자..
+
+    <br>
+
+    (4) [스타트와 링크 (14889번)](https://www.acmicpc.net/problem/14889)
+    - 시간 : [21분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/89_14889.cpp)
+
+    <br>
+
+    (5) [링크와 스타트 (15661번)](https://www.acmicpc.net/problem/15661)
+    - 시간 : [7분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/90_15661.cpp)
+
+    <br>
+
+    (6) [부등호 (2529번)](https://www.acmicpc.net/problem/2529)
+    - 시간 : [28분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/91_2529.cpp)
+
+    <br>
+
+    (7) [Guess (번)](https://www.acmicpc.net/problem/)
+    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/.cpp)
+
+    <br>
+
+<br>
