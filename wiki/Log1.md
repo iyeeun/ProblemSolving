@@ -516,7 +516,36 @@
 3. 브루트 포스 (순열)
 
     (1) [다음 순열 (10972번)](https://www.acmicpc.net/problem/10972)
-    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/.cpp)
+    - 시간 : [3분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/93_10972.cpp)
+    - ```next_permutation()``` 함수를 사용하면 자동으로 다음 만들어줌. 불가능하면 (마지막 순열이면) false 반환
+
+    <br>
+
+    (2) [이전 순열 (10973번)](https://www.acmicpc.net/problem/10973)
+    - 시간 : [2분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/94_10973.cpp)
+
+    <br>
+
+    (3) [모든 순열 (10974번)](https://www.acmicpc.net/problem/10974)
+    - 시간 : [3분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/95_10974.cpp)
+
+    <br>
+
+    (4) [차이를 최대로 (10819번)](https://www.acmicpc.net/problem/10819)
+    - 시간 : [4분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/96_10819.cpp)
+
+    <br>
+
+    (5) [외판원 순회 2 (10971번)](https://www.acmicpc.net/problem/10971)
+    - 시간 : [21분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/97_10971.cpp)
+    - O(N!)으로 구해도 되지만, 다시 첫 도시로 돌아와야 한다는 조건 때문에 N개의 중복된 값이 생긴다. 이를 위해 ```next_permutation()```을 ```arr.begin()+1```로 주면 O(N-1)!로 해결 가능!
+
+    <br>
+
+    (6) [로또 (6603번)](https://www.acmicpc.net/problem/6603)
+    - 시간 : [14분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/98_6603.cpp)
+    - N개의 수 중 M개를 선택하는 문제 (오름차순 유지) => 재귀로도 해결 가능하지만, 순열도 가능!
+    - 선택의 문제를 0과 1의 순열로 표현할 수 있음 => M개의 1과 N-M개의 0의 순열
 
     <br>
 
