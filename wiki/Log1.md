@@ -513,7 +513,16 @@
 
 <br>
 
-3. 브루트 포스 (재귀)
+3. 브루트 포스 (순열)
+
+    (1) [다음 순열 (10972번)](https://www.acmicpc.net/problem/10972)
+    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/.cpp)
+
+    <br>
+
+<br>
+
+4. 브루트 포스 (재귀)
 
     (1) [1, 2, 3 더하기 (9095번)](https://www.acmicpc.net/problem/9095)
     - 시간 : [5분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/86_9095.cpp)
@@ -548,7 +557,64 @@
 
     <br>
 
-    (7) [Guess (번)](https://www.acmicpc.net/problem/)
+    (7) [Guess (1248번)](https://www.acmicpc.net/problem/1248)
+    - 시간 : [40 + 48분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/92_1248.cpp)
+    - 입출력 형식도 시간이 오래 걸렸고, 설계보다 구현에 시간을 더 많이 쓴 문제
+
+    <br>
+
+<br>
+
+5. 브루트 포스 (비트마스크)
+
+    (1) [ (번)](https://www.acmicpc.net/problem/)
+    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/.cpp)
+
+    <br>
+
+<br>
+
+### 그래프 1
+
+1. 그래프 1
+
+    (1) [ (번)](https://www.acmicpc.net/problem/)
+    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/.cpp)
+
+    <br>
+
+2. 그래프 1 (연습)
+
+    (1) [ (번)](https://www.acmicpc.net/problem/)
+    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/.cpp)
+
+    <br>
+
+3. 그래프 1 (도전)
+
+    (1) [ (번)](https://www.acmicpc.net/problem/)
+    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/.cpp)
+
+    <br>
+
+<br>
+
+### BFS
+
+1. BFS
+
+    (1) [ (번)](https://www.acmicpc.net/problem/)
+    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/.cpp)
+
+    <br>
+
+<br>
+
+### 트리 1
+
+1. 트리 1
+
+    (1) [ (번)](https://www.acmicpc.net/problem/)
     - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/.cpp)
 
     <br>
