@@ -197,3 +197,7 @@
 
 (21) [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
 - 시간 : [9분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/56.cpp)
+
+(22) [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
+- 시간 : [41분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/57.cpp)
+- 비효율적으로 풀어서 방법 찾아보고 다시 풀었음.. [26분](../problems/part2/57_2.cpp)
