@@ -205,3 +205,7 @@
 (23) [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 - 시간 : [41분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/58.cpp)
 - 문제 접근 + 해결 방법 찾기까지는 비교적 ,, 쉽게 했는데 전체 부분 집합에 대한 곱을 어떻게 구해야 하는지!!!!! 재귀, 비트마스크, 순열 여러 가지 생각은 났는데 구현할 수 있는게 없었슴다 .. 결국 qna 도움을 받아 ,, ㅎ 해결 .. (i + 1)의 곱의 합 - 1로 표현 가능한 것 알아두자! [+ 비트마스크 야매로 짜봤움 ,, ㅋ.. n=30일 때 시간초과~](../problems/part2/58_2.cpp)
+
+(24) [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
+- 시간 : [55분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/59.cpp)
+- ^^....... 화나네요 ^_^ 시간 초과 문제인 줄 알았는데 그냥 자료형 캐스팅 문제였던 것 ,,,, 잘 확인합시다 !
