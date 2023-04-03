@@ -209,3 +209,11 @@
 (24) [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
 - 시간 : [55분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/59.cpp)
 - ^^....... 화나네요 ^_^ 시간 초과 문제인 줄 알았는데 그냥 자료형 캐스팅 문제였던 것 ,,,, 잘 확인합시다 !
+
+(25) [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
+- 시간 : [19분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/60.cpp)
+- 어려운 문제는 아니었는데 겁먹어서 당황.. toy example의 중요성! 반복되는 패턴 파악하기
+
+(26) [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+- 시간 : [27분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/61.cpp)
+- 15분 안에 풀어서 실력이 늘었나 했는데 마지막 테스트케이스 하나 안돼서 .. 외않되.. 했더니 나눌때 ,,, ```ceil(a / (double) b)```로 캐스팅해야 내가 원하는 값이 나온다.. 호호호 까묵지말자!
