@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <algorithm>
 
 using namespace std;
 
@@ -7,62 +8,33 @@ int main() {
     int n;
     cin >> n;
 
-    vector<int> nums(n);
+    vector<long> nums(n);
     for(int i = 0; i < n; i ++) {
         cin >> nums[i];
     }
 
-    vector<long> sums(n, 0);
-    vector<int> exceptidx(n, -1);
-    sums[0] = nums[0];
-    long maxsum = sums[0];
-    int maxidx = 0;
+    vector<long> start_dp(n);
+    vector<long> end_dp(n);
 
+    start_dp[0] = nums[0];
     for(int i = 1; i < n; i ++) {
-        int mode = 0;
-        sums[i] = nums[i];  
-        if(sums[i-1] > sums[i]) {
-            sums[i] = sums[i-1];
-            exceptidx[i] = exceptidx[i-1];
-        }
-
-        if(sums[i] < sums[i-1] + nums[i]) {
-            sums[i] = sums[i-1] + nums[i];
-            exceptidx[i] = exceptidx[i-1];
-        }
-
-        for(int j = maxidx+1; j <= i; j ++) {
-            if(nums[j] < 0) {
-                int tmp = sums[maxidx];
-                if(exceptidx[maxidx] != -1) {
-                    tmp += nums[exceptidx[maxidx]];
-                }
-                cout << i << " " << tmp << endl;
-                // tmp += nums[j];
-                if(tmp >= sums[i]) {
-                    sums[i] = tmp;
-                    exceptidx[i] = j;
-                }
-            }
-        }
-
-        if(sums[i] > maxsum) {
-            maxsum = sums[i];
-            maxidx = i;
-        }
+        start_dp[i] = max(start_dp[i-1] + nums[i], nums[i]);
     }
 
-    for(auto i : sums) {
-        cout << i << " ";
+    end_dp[n-1] = nums[n-1];
+    for(int i = n-2; i >= 0; i --) {
+        end_dp[i] = max(end_dp[i+1] + nums[i], nums[i]);
     }
-    cout << endl;
-    for(auto i : exceptidx) {
-        cout << i << " ";
+
+    long ans = start_dp[0];
+    for(int i = 1; i < n; i ++) {
+        if(start_dp[i] > ans) ans = start_dp[i];
     }
-    cout << endl;
+    for(int i = 1; i <= n-2; i ++) {
+        if(start_dp[i-1] + end_dp[i+1] > ans) ans = start_dp[i-1] + end_dp[i+1];
+    }
 
-    cout << sums[n-1] << endl;
-
+    cout << ans << endl;
 
     return 0;
 }
