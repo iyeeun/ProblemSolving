@@ -380,20 +380,20 @@
     <br>
 
     (10) [가장 긴 바이토닉 부분 수열 (11054번)](https://www.acmicpc.net/problem/11054)
-    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/63_11054.cpp)
-    - 조건 꼼꼼히!
+    - 시간 : [46분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/63_11054.cpp)
+    - 앞에서부터 채우기 + 뒤에서부터 채우기
 
     <br>
 
     (11) [연속합 2 (13398번)](https://www.acmicpc.net/problem/13398)
-    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/64_13398.cpp)
-    - 조건 꼼꼼히!
+    - 시간 : [32분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/64_13398.cpp)
+    - 얘도 앞뒤,, 하나를 제외하는 경우 == 나 빼고 앞뒤로 잇기
 
     <br>
 
     (12) [타일 채우기 (2133번)](https://www.acmicpc.net/problem/2133)
-    - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/65_1149.cpp)
-    - 조건 꼼꼼히!
+    - 시간 : [52분, 서치](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/65_2133.cpp)
+    - 이해 안돼서 [블로그 참고함](https://yabmoons.tistory.com/536). 정해진 패턴이 명확하지 않은 경우에는 하나 하나 그러가면서 파악하는 것이 필요함
 
     <br>
 
@@ -596,8 +596,24 @@
 
 5. 브루트 포스 (비트마스크)
 
-    (1) [ (번)](https://www.acmicpc.net/problem/)
-    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/.cpp)
+    (1) [집합 (11723번)](https://www.acmicpc.net/problem/11723)
+    - 시간 : [15분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/99_11723.cpp)
+
+    <br>
+
+    (2) [부분수열의 합 (1182번)](https://www.acmicpc.net/problem/1182)
+    - 시간 : [11분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/100_1182.cpp)
+    - 공집합을 제외한 선택에 대한 문제 : 1부터 (1 << n)까지 for문을 돌려가며 포함된 것을 찾음 -> ```(i & (1 << k))```
+
+    <br>
+
+    (3) [스타트와 링크 (14889번)](https://www.acmicpc.net/problem/14889)
+    - 시간 : [15분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/101_14889.cpp)
+
+    <br>
+
+    (4) [종이 조각 (14391번)](https://www.acmicpc.net/problem/14391)
+    - 시간 : [35분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/14391.cpp)
 
     <br>
 
