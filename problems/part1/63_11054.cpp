@@ -1,41 +1,45 @@
 #include <iostream>
 #include <vector>
-#include <algorithm>
 
 using namespace std;
 
 int main() {
-    int n;
+    int n, ans = 0;
     cin >> n;
-    vector<int> nums(n);
-    vector<int> uplens(n);
-    vector<int> downlens(n);
-    vector<int> bilens(n);
 
-    for(int i = 0; i < n; i ++) {
-        cin >> nums[i];
-    }
+    vector<int> arr(n);
+    for(int i = 0; i < n; i ++) cin >> arr[i];
+    
+    vector<vector<int> > dp(n, vector<int>(2, 0));
 
-    uplens[0] = downlens[0] = bilens[0] = 1;
+    dp[0][0] = 1;
+    dp[n-1][1] = 1;
 
     for(int i = 1; i < n; i ++) {
-        uplens[i] = downlens[i] = 1;
+        dp[i][0] = 1;
         for(int j = 0; j < i; j ++) {
-            if(nums[j] < nums[i] && uplens[j] + 1 > uplens[i]) {
-                uplens[i] = uplens[j] + 1;
-            }
-            if(nums[j] > nums[i] && downlens[j] + 1 > downlens[i]) {
-                downlens[i] = downlens[j] + 1;
+            if(arr[i] > arr[j] && dp[i][0] < dp[j][0] + 1) {
+                dp[i][0] = dp[j][0] + 1;
             }
         }
     }
 
-    for(int i = 1; i < n; i ++) {
-        bilens[i] = max(max(uplens[i], downlens[i]), uplens[i]+downlens[i]);
+    for(int i = n-2; i >= 0; i --) {
+        dp[i][1] = 1;
+        for(int j = n-1; j >= i; j --) {
+            if(arr[i] > arr[j] && dp[i][1] < dp[j][1] + 1) {
+                dp[i][1] = dp[j][1] + 1;
+            }
+        }
     }
 
-    cout << bilens[n-1] << endl;
-
+    for(int i = 0; i < n; i ++) {
+        if(ans < dp[i][0] + dp[i][1] - 1) {
+            ans = dp[i][0] + dp[i][1] - 1;
+        }
+    }
+    
+    cout << ans << endl;
 
     return 0;
 }
