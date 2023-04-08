@@ -623,8 +623,27 @@
 
 1. 그래프 1
 
-    (1) [ (번)](https://www.acmicpc.net/problem/)
-    - 시간 : [분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/.cpp)
+    (1) [ABCDE (13023번)](https://www.acmicpc.net/problem/13023)
+    - 시간 : [33분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/103_13023.cpp)
+    - DFS 이용해서 풀었음. 분기할 때 상태가 달라지므로 dfs 후로 visit 체크 풀어주기, 모든 노드를 시작 노드로 한번씩 찾아봐주기
+
+    <br>
+
+    (2) [DFS와 BFS (1260번)](https://www.acmicpc.net/problem/1260)
+    - 시간 : [21분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/104_1260.cpp)
+    - 2차원 벡터 정렬할 때 iterator 말고 아예 접근해서 해야 함
+
+    <br>
+
+    (3) [연결 요소의 개수 (11724번)](https://www.acmicpc.net/problem/11724)
+    - 시간 : [10분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/105_11724.cpp)
+    - 아직 방문하지 않은 노드에서 DFS/BFS를 수행하는 경우의 수
+
+    <br>
+
+    (1) [ABCDE (13023번)](https://www.acmicpc.net/problem/13023)
+    - 시간 : [33분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/103_13023.cpp)
+    - DFS 이용해서 풀었음. 분기할 때 상태가 달라지므로 dfs 후로 visit 체크 풀어주기
 
     <br>
 
