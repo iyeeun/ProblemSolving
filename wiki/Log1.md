@@ -641,9 +641,8 @@
 
     <br>
 
-    (1) [ABCDE (13023번)](https://www.acmicpc.net/problem/13023)
-    - 시간 : [33분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/103_13023.cpp)
-    - DFS 이용해서 풀었음. 분기할 때 상태가 달라지므로 dfs 후로 visit 체크 풀어주기
+    (4) [이분 그래프 (1707번)](https://www.acmicpc.net/problem/1707)
+    - 시간 : [11분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/106_1707.cpp)
 
     <br>
 
