@@ -646,6 +646,12 @@
 
     <br>
 
+    (5) [단지번호붙이기 (2667번)](https://www.acmicpc.net/problem/2667)
+    - 시간 : [30분](https://github.com/22000546/ProblemSolving/blob/main/problems/part1/107_2667.cpp)
+    - 로직은 금방 생각했는데 char에서 int로의 변환에 문제가 있었다.. DFS 구현이나 BFS 구현도 아직 매끄럽지는 않음
+
+    <br>
+
 2. 그래프 1 (연습)
 
     (1) [ (번)](https://www.acmicpc.net/problem/)
