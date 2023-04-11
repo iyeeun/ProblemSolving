@@ -51,6 +51,7 @@ vec.size();
 vec.insert(idx, value); // return iterator
 vec.erase(iter);
 vec.assign(iter, iter);
+fill(vec.begin(), vec.end(), 1); // 원하는 값으로 전체 초기화
 ```
 
 #### Queue
