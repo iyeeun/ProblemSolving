@@ -33,6 +33,7 @@ stack.pop(); // void
 stack.top() // if empty, segfault error
 stack.empty() // bool
 stack.size() // int
+// iterator X
 ```
 
 #### Vector
@@ -64,6 +65,7 @@ q.front(); // type
 q.back();
 q.size(); // int
 q.empty(); // bool
+// iterator X
 ```
 
 #### Deque
@@ -79,6 +81,7 @@ d.back();
 d.size(); // int
 d.empty(); // bool
 d.clear();
+*max_element(d.begin(), d.end()) // #include <algorithm>, iterator 있음
 ```
 
 #### Map
