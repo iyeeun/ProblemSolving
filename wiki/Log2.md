@@ -217,3 +217,23 @@
 (26) [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 - 시간 : [27분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/61.cpp)
 - 15분 안에 풀어서 실력이 늘었나 했는데 마지막 테스트케이스 하나 안돼서 .. 외않되.. 했더니 나눌때 ,,, ```ceil(a / (double) b)```로 캐스팅해야 내가 원하는 값이 나온다.. 호호호 까묵지말자!
+
+(27) [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
+- 시간 : [21분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/63.cpp)
+- 전에 백준에서 풀었던 문제라서 접근은 쉽게 했는데 큐에서 최댓값을 어떻게 찾아야할지 고민함. 그냥 원래 벡터를 sorting하고 idx를 키워가며 값 가져옴
+- **queue에는 iterator 없음!!**
+
+(28) [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)
+- 시간 : [57+23분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/64.cpp)
+- 문제를 대충 읽고 잘못 이해해서 다시 구현함..ㅎ 제대로 좀 읽어 !!!!!
+- 생각처럼 구현이 어려운 문제는 아니었음. 다양한 테스트케이스에 대해 언제나 고민해볼것...
+
+(29) [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
+- 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/65.cpp)
+- map을 이용한 간단한 구현. find() 사용법 까먹은거 리마인드함!!
+
+### 3단계
+
+(1) [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)
+- [시간 : 12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/62.cpp)
+- DP 문제를 2개로 수행
