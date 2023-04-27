@@ -232,6 +232,11 @@
 - 시간 : [12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/65.cpp)
 - map을 이용한 간단한 구현. find() 사용법 까먹은거 리마인드함!!
 
+(30) [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+- 시간 : [4분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/66.cpp)
+- DFS로 풀었는데, 미리 알지 않았다면 브루트포스로 풀었을 듯. 근데 똑같이 풀었을 거 같긴 하다. 생각보다 너무 쉬워서 당황...
+
+
 ### 3단계
 
 (1) [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)
