@@ -127,6 +127,9 @@
 (33) [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 - [시간 : 40분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/35.cpp)
 
+(34) [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
+- [시간 : 19분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/67.cpp)
+
 ### 2단계
 
 (1) [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
