@@ -130,6 +130,9 @@
 (34) [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
 - [시간 : 19분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/67.cpp)
 
+(35) [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
+- [시간 : 10분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/68.cpp)
+
 ### 2단계
 
 (1) [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
