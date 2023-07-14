@@ -133,6 +133,9 @@
 (35) [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
 - [시간 : 10분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/68.cpp)
 
+(36) [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
+- [시간 : 7분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/69.cpp)
+
 ### 2단계
 
 (1) [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
@@ -241,6 +244,25 @@
 (30) [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 - 시간 : [4분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/66.cpp)
 - DFS로 풀었는데, 미리 알지 않았다면 브루트포스로 풀었을 듯. 근데 똑같이 풀었을 거 같긴 하다. 생각보다 너무 쉬워서 당황...
+
+(31) [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
+- 시간 : [37분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/70.cpp)
+- 브루트포스로 풀었는데 절반만 맞았음. 이유를 모르겠고 DFS가 잘 기억이 안나서 인터넷 서치해서 참고해보니 초기 종료 조건을 따로 설정해주지 않길래 해당 부분을 없애고 아래에 answer 설정하도록 바꾸니까 통과.
+
+(32) [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+- 시간 : [11분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/71.cpp)
+- 전체 비교하기에는 데이터가 너무 많아 O(N)으로 해결해야 한다고 생각함 -> 정렬 후 그 다음과 compare. 왜 해시로 분류되었는지는 모르겠음..!?
+
+(33) [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
+- 시간 : [62분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/72.cpp)
+- 전반적인 접근 자체는 빨리 찾았지만, 시간초과와 segfault 때문에 .. 고생함..^^
+- **소수 찾을 때 sqrt(num)도 포함해서 찾아야 함!!**
+- 에라토스테네스의 체보다 그냥 소수를 일일이 찾는게 더 빠를 수 있음 (최대값이 너무 크면 + 찾아야 하는 수가 많지 않으면)
+- stoi() 같은거 할 때 string 확인하기. 빈 문자열일 수 있음
+
+(34) [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
+- 시간 : [59분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/73.cpp)
+- 어려웠다 ㅜㅜ ... 그냥 구현으로 풀면 되는 것 같은데.. map의 사용과 짜임새 있는 로직을 처음부터 끌고 가지 않아서 오래 걸린 것 같다.
 
 
 ### 3단계
