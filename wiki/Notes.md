@@ -13,6 +13,7 @@
 - 문자열 여러개 읽기 : `while(getline(cin, str)) {}` -> `str.empty()`일 때 종료시키지 않아도 EOF가 true가 되면 알아서 멈춤
 - 부분 문자열 : `str.substr(start_idx, length)`
 - 다른 타입으로 변환 : `stoi(str)` / `to_string(num)`
+- 다른 문자열과 비교 : `str1.compare(str2)` / `str1.compare (start_idx, len, str2)` / **`str1.compare (start_idx, len, str2, start_idx2, len2)`**
 
 #### 시간 줄이기
 ```:cpp
