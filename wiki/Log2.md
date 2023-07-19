@@ -264,6 +264,19 @@
 - 시간 : [59분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/73.cpp)
 - 어려웠다 ㅜㅜ ... 그냥 구현으로 풀면 되는 것 같은데.. map의 사용과 짜임새 있는 로직을 처음부터 끌고 가지 않아서 오래 걸린 것 같다.
 
+(35) [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
+- 시간 : [18분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/74.cpp)
+- 조금 당황했지만 간단한 진법 계산 + 구현 문제!
+
+(36) [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
+- 시간 : [20분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/75.cpp)
+- 구현은 쉽지만 예외 처리가 헷갈렸던 문제..! 필요한 예외 상황을 잘 파악할 것. 질문하기에서 찾아봐서 빠르게 풀 수 있었지만 코테였으면 생각 못했을 거 같다.
+- heap -> priority_queue 이용
+
+(37) [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
+- 시간 : [42분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/76.cpp)
+- 그냥 구현 문제지만 문자열 다루기 + 계산 등 까다로운 부분이 많은 문제.. 더 효율적으로 풀 수 있는 방법을 고민했지만 그냥 N^2으로 풀어도 될 거 같아 그렇게 했다. ceil 말고 ```int ceiled = (x-1)/y +1;``` 로 할 수 있다고 했지만 잘 안돼서 .. 그냥 ceil 써줌. **이 때 (float) 해주는 거 까묵으면 안됨 !!!**
+
 
 ### 3단계
 
