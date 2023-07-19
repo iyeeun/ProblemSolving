@@ -112,6 +112,16 @@ s.upper_bound(3);
 for(set<int>::iterator iter = s.begin(); iter != s.end(); iter ++) {*iter;} 
 ```
 
+#### Heap (Priority queue)
+```:cpp
+#include <queue>
+priority_queue<int> pq; // default : max heap
+// min heap -> 각 원소에 - 곱해주고 사용
+pq.push(3);
+pq.pop();
+pq.top();
+```
+
 ---
 ### 2. Algorithm
 #### 정렬 (sort)
