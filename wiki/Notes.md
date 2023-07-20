@@ -15,6 +15,21 @@
 - 다른 타입으로 변환 : `stoi(str)` / `to_string(num)`
 - 다른 문자열과 비교 : `str1.compare(str2)` / `str1.compare (start_idx, len, str2)` / **`str1.compare (start_idx, len, str2, start_idx2, len2)`**
 
+#### String Stream
+```:cpp
+#include <sstream>
+stringstream ss(str);
+for(string s : list) {
+    string s1, s2;
+
+    ss.str("");
+    ss.clear();
+
+    ss.str(s);
+    ss >> s1 >> s2;
+}
+```
+
 #### 시간 줄이기
 ```:cpp
 ios_base::sync_with_stdio(false);
