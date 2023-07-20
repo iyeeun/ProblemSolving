@@ -277,6 +277,18 @@
 - 시간 : [42분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/76.cpp)
 - 그냥 구현 문제지만 문자열 다루기 + 계산 등 까다로운 부분이 많은 문제.. 더 효율적으로 풀 수 있는 방법을 고민했지만 그냥 N^2으로 풀어도 될 거 같아 그렇게 했다. ceil 말고 ```int ceiled = (x-1)/y +1;``` 로 할 수 있다고 했지만 잘 안돼서 .. 그냥 ceil 써줌. **이 때 (float) 해주는 거 까묵으면 안됨 !!!**
 
+(38) [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
+- 시간 : [15분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/77.cpp)
+- 그냥 구현 문제. 문자열 형식이 완벽히 (자리가) 정해지지 않은 경우를 처리. 공백 기준 파싱을 그냥 for문을 이용했지만 [sstream 쓸 수도 있음](../problems/part2/78.cpp)
+
+(39) [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+- 시간 : [35분](../problems/part2/79.cpp)
+- 스택/큐 안써져 있었으면 많이 어려웠을듯 .. 문제가 너무 헷갈렸다. 증가/감소하는 부분 수열의 길이를 구하는 문제인듯 O(N^2)으로 확인하지 말고 한번씩 값을 확인하며 스택에 넣어두는 방법을 많이 사용하는 것 같다..
+
+(40) [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
+- 시간 : [9분](../problems/part2/80.cpp)
+- 전형적인 2차원 DP 문제. dp 배열을 띠로 선언했었는데 다 풀고 확인해보니 그냥 land 배열만 있어도 괜찮았다. 최대 찾기 어떻게 할까 고민하다가 그냥 tmp 벡터 만들어서 max_element 사용했다. 그냥 max(a, max(b, c)) 해도 될듯
+
 
 ### 3단계
 
