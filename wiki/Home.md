@@ -6,7 +6,11 @@
 
 ---
 ### 1. 로그
-- 알고리즘 기초 1
-    - [자료구조 1](https://github.com/22000546/ProblemSolving/wiki/Log1)
+- [알고리즘 기초 1](https://github.com/22000546/ProblemSolving/wiki/Log1)
+
+- [프로그래머스](https://github.com/22000546/ProblemSolving/wiki/Log2)
+
+- [프로그래머스 SQL](https://github.com/22000546/ProblemSolving/wiki/Log3)
 
 ---
+### [2. 공부 내용 정리](https://github.com/22000546/ProblemSolving/wiki/Notes)
