@@ -146,6 +146,7 @@ sort(v.begin(), v.end()); // iterator
 sort(v.begin(), v.end(), compare); //사용자 정의 함수 compare 사용
 sort(v.begin(), v.end(), greater<type>()); //내림차순
 sort(v.begin(), v.end(), less<type>()); //오름차순
+stable_sort(v.begin(), v.end(), compare); // 값이 동일할 때 들어온 순서 유지
 ```
 
 #### for-each
