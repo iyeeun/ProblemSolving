@@ -137,6 +137,16 @@ pq.pop();
 pq.top();
 ```
 
+#### Tuple
+```:cpp
+#include <tuple>
+tuple<int, int, int> t;
+t = make_tuple(1, 2, 3);
+tie(a, b, c) = t;
+get<0>(t); // -> 1
+auto t3 = tuple_cat(t1, t2); // concat
+```
+
 ---
 ### 2. Algorithm
 #### 정렬 (sort)
