@@ -317,6 +317,22 @@
 - 시간 : [15분](../problems/part2/87.cpp)
 - LIS 생각나서 스택으로 풀었음.. 가장 가까이 있는 부분에서 스택을 쓰라는 힌트를 얻었다고 한다. BUT DP로도 풀 수 있음
 
+(47) [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
+- 시간 : [22분](../problems/part2/88.cpp)
+- parse하는 함수와 sort 함수 정의로 간단하게 풀었지만, stable_sort 를 이용하지 않으면 안됐다. **기존 순서를 보장하려면 stable_sort()** !!
+
+(48) [[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)
+- 시간 : [49분](../problems/part2/89.cpp)
+- 자꾸 segfault가 나서 답답했는데 ... 그냥 i, j를 잘못 넣어줘서 그랬음 .. 잘보자..
+- 빈칸을 내리는게 좀 까다로웠는데 아래에서부터 cnt로 내릴 개수를 세서 내려줌
+
+(49) [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
+- 시간 : [21분](../problems/part2/90.cpp)
+- 접근 방법을 헤매다가 종류를 미리 기억해놓고 그것만 변경하면 되겠다는 생각이 드니 엄청 쉬웠다.
+
+(50) [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)
+- 시간 : [21분](../problems/part2/91.cpp)
+- 딱 보자마자 DP인가 싶었는데 어디까지 올라가야할지 감이 안와서 set 두 개를 이용하는 풀이로 해결했다. 찾아보니 대부분 DP 혹은 DFS/BFS로 푸는 것 같고 곱하기를 하는 것보다 top-down으로 나누기, 빼기를 이용하는 것 같았다.
 
 ### 3단계
 
