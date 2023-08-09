@@ -334,6 +334,18 @@
 - 시간 : [21분](../problems/part2/91.cpp)
 - 딱 보자마자 DP인가 싶었는데 어디까지 올라가야할지 감이 안와서 set 두 개를 이용하는 풀이로 해결했다. 찾아보니 대부분 DP 혹은 DFS/BFS로 푸는 것 같고 곱하기를 하는 것보다 top-down으로 나누기, 빼기를 이용하는 것 같았다.
 
+(51) [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
+- 시간 : [3분](../problems/part2/92.cpp)
+- 기본적인 DP 문제. 전에 풀어봤어서 금방 풀었음
+
+(52) [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)
+- 시간 : [38분](../problems/part2/93.cpp)
+- 처음에는 2^n-1만 동작이 다르고 나머지는 다 +1 해주면 된다고 생각했는데, 잘못된 접근이었음. 질문하기 참고해서 가장 오른쪽에 있는 0을 1로 만들고 그 옆의 1을 0으로 만드는 것으로 구현함. 규칙성을 찾을 때는 인풋과 아웃풋을 먼저 보는 것이 좋을듯
+
+(53) [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+- 시간 : [17분](../problems/part2/94.cpp)
+- 스택/큐 문제라고 나와있는걸 봐버려서 의식하지 않고 풀려고 노력함.. 그냥 시뮬레이션으로 풀자 했는데 통과함. 다른 사람들의 풀이를 보니 스택이나 큐의 성질을 유의미하게 이용한다기보다 앞으로 들어가고 뒤로 빠지는 데에 deque를 써서 그런거 같음
+
 ### 3단계
 
 (1) [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)
