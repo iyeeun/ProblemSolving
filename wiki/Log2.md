@@ -346,6 +346,14 @@
 - 시간 : [17분](../problems/part2/94.cpp)
 - 스택/큐 문제라고 나와있는걸 봐버려서 의식하지 않고 풀려고 노력함.. 그냥 시뮬레이션으로 풀자 했는데 통과함. 다른 사람들의 풀이를 보니 스택이나 큐의 성질을 유의미하게 이용한다기보다 앞으로 들어가고 뒤로 빠지는 데에 deque를 써서 그런거 같음
 
+(54) [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
+- 시간 : [11분](../problems/part2/95.cpp)
+- 살짝 어떤 문제인지 당황스러웠는데, 그냥 하라는 대로 구현했더니 됨. 한 번씩만 훑어보기 + 스택 이용 하면 O(N)에 할 수 있음. 무엇을 위한 문제인가 .. 모르겠지만 ... 예 ..
+
+(55) [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
+- 시간 : [49분](../problems/part2/96.cpp)
+- sort 함수를 정의해서 푼다는 아이디어 자체는 금방 떠올렸지만 완벽한 정의가 어려웠는데, 규칙성 찾기 보다 그냥 문제에 주어진 조건대로 비교하는게 .. 더 낫다는 것. . .
+
 ### 3단계
 
 (1) [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)
