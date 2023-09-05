@@ -428,6 +428,44 @@
 - 시간 : [105분](../problems/part2/115.cpp)
 - 진짜 너무 어려웠다.. DP, BFS, 알고리즘 다 해봤는데 시간초과여서.. 결국 처음에 찾았던 그 규칙이 맞았음.. 다만 5일 때 다음 자리를 보고 반올림을 처리해주지 않아서 안됐던거임. .......
 
+(74) [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)
+- 시간 : [80분](../problems/part2/116.cpp)
+- 껄껄 어려운 문제는 아니었는데 .. DP 아예 생각도 못했다. .. 허허허 DFS로 풀었는데 너무 당연히 시간초과가 나서 참고해보니 DP 문제라고 ... 생각해보니 그런 거 같음. .. 작은 문제로 나눠질 수 있고, 그 문제의 해답을 이용할 수 있다면 DP!! 전형적인 느낌이라 이런 예제는 아예 외워도 좋겠다.
+
+(75) [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
+- 시간 : [37분](../problems/part2/117.cpp)
+- 복잡해보였는데 말 그대로 최대공약수를 찾아서 나눠지는지 확인하면 되는 문제. gcd를 구할 때 array 사이즈가 1일 때 처리를 안해줘서 한 번 틀렸었다. 그리고 재귀로 구현하면 훨씬... 쉬움
+    ```:cpp
+    int gcd(int a, int b){
+        if(b == 0) return a;
+        return gcd(b, a%b);
+    }   
+    ```
+
+(76) [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
+- 시간 : [29분](../problems/part2/118.cpp)
+- 그냥 구현 문제. 한번에 통과해서 기분이 너무 좋았어요,,,
+
+(77) [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
+- 시간 : [73분](../problems/part2/119.cpp)
+- map 이용해서 갯수 세고, O(N^2)으로 돌면서 더해준 아주 간단한 풀이.. 
+
+(78) [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)
+- 시간 : [40분](../problems/part2/120.cpp)
+- 각 점의 좌표를 나타낸 2차원 배열을 상상하면서, 넘어가는 숫자는 제외하고 갯수를 헤아리는 방법으로 구현했다. 좀 돌아간 감이 있긴 하지만 ... ^^ 그래도 만 족 .. 그냥 피타고라스랑 몫 이용해서 풀면 되는듯!
+
+(79) [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)
+- 시간 : [22분](../problems/part2/121.cpp)
+- 대각선이 지나는 사각형의 갯수를 세는데, 기울기를 이용하여 수학적인 방법을 쉽게 떠올릴 수 있었다. int * int가 범위가 벗어나서 캐스팅이 가장 중요했던 문제.. ㅋㅎ 범위가 클 때는 자료형에 언제나 주의하자. 그리고 `long double` 이라는게 있다고 합니다..
+
+(80) [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
+- 시간 : [12분](../problems/part2/122.cpp)
+- 문제 이해가 오래 걸렸고, 구현은 하라는 대로 하면 되는 문제. 람다 쓸 때 `[캡처](파라미터){내용}`으로 사용하면 되고, 캡처는 그냥 변수명만 써주면 됨. 주소 복사 필요하면 &하고! 
+
+(81) [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
+- 시간 : [111분](../problems/part2/123.cpp)
+- 그냥 문자열 비교하면서 해도 되는듯 .. 굳이 어려운 길을 갔지만.. 괜차나 하하 .. 오래 걸렸는데 잔잔바리 실수가 많았다. **특히 !!!!!!!! 문자열 길이 관련된 문제 풀 때는 문자열의 길이의 범위를 확인할 것 !!!**
+
 ### 3단계
 
 (1) [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)
