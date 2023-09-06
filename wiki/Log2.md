@@ -466,6 +466,26 @@
 - 시간 : [111분](../problems/part2/123.cpp)
 - 그냥 문자열 비교하면서 해도 되는듯 .. 굳이 어려운 길을 갔지만.. 괜차나 하하 .. 오래 걸렸는데 잔잔바리 실수가 많았다. **특히 !!!!!!!! 문자열 길이 관련된 문제 풀 때는 문자열의 길이의 범위를 확인할 것 !!!**
 
+(82) [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
+- 시간 : [16분](../problems/part2/124.cpp)
+- BFS를 두 번 수행하면 됐던 문제
+
+(83) [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
+- 시간 : [13분](../problems/part2/125.cpp)
+- DFS를 반복해서 수행하고 결과에 대해 최대 연산 값을 가지는 것을 O(N^2)으로 찾아냄
+
+(84) [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
+- 시간 : [38분](../problems/part2/126.cpp)
+- 한 칸씩 움직이지 않는 BFS 문제. 방향을 vertex 안에 넣어서 BFS를 수행하는데 이 때 의미를 (x, y, dir) = (dir 연산을 통해 x, y에 도착함)으로 설정하고 풀었다. 방문 여부 체크 전 갈 곳을 미리 정해주고, 정해지면 방문 여부를 체크하고 큐에 넣었다.
+
+(85) [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)
+- 시간 : [118분](../problems/part2/127.cpp)
+- 정말 오래 걸렸고 복잡했다... 카카오 문제는 정말 .. 정말 정말 ... 처음부터 애매했던 부분이 마지막까지 발목을 잡고 놓지 않았다. 특수한 알고리즘을 떠올리는 것보다 되는 방법을 단순하고 직관적으로 빠르게 구현하는 게 필요하다고 생각이 든다.
+
+(86) [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
+- 시간 : [13분](../problems/part2/128.cpp)
+- next_permutation을 이용해서 브루트포스로 풀었다. 광물이 먼저 없어지거나 곡괭이가 먼저 없어지거나 하는 상황은 min()을 이용해서 조건으로 처리했다. 보통 DFS로 풀던데 .. 난 이렇게 했다 .. 
+
 ### 3단계
 
 (1) [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)
