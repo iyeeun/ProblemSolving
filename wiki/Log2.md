@@ -486,6 +486,30 @@
 - 시간 : [13분](../problems/part2/128.cpp)
 - next_permutation을 이용해서 브루트포스로 풀었다. 광물이 먼저 없어지거나 곡괭이가 먼저 없어지거나 하는 상황은 min()을 이용해서 조건으로 처리했다. 보통 DFS로 풀던데 .. 난 이렇게 했다 .. 
 
+(87) [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
+- 시간 : [66분](../problems/part2/130.cpp)
+- [처음에는 DP로 접근했는데](129.cpp), k의 범위도 커서 시간초과가 나기도 하고, 실패가 뜨기도 했다. 서치해보니 최소힙 문제.. 잘 모르겠어서 인터넷 코드들을 참고하면서 풀었다. 힙을 사용하는 이유는 최소한으로 병력을 사용하기 위해서이다. 너무 어렵게 생각할 거 없이 자원을 적게 쓰는게 좋을 때 활용하면 좋을 거 같다! `priority_queue<int, vector<int>, greater<int>>`가 min heap이다. 두번째는 내부 구현과 관련된 부분!
+
+(88) [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)
+- 시간 : [23분](../problems/part2/131.cpp)
+- 누적합을 이용해서 그대로 구현하면 되는 문제. 예제 설명이 자세하지 않아서 아닌가, 싶었는데 맞았다.
+
+(89) [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)
+- 시간 : [59분](../problems/part2/132.cpp)
+- 접근 방식은 쉽게 찾았는데 예외 처리를 어떻게 해야할지 아이디어가 빨리 떠오르지 않아서 오래 걸렸다.
+
+(90) [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
+- 시간 : [31분](../problems/part2/133.cpp)
+- 전에 백준에서 풀어봤어서 대략적인 접근 방식은 알고 있었는데, 그럼에도 시간초과가 났다. 대각선 정보 또한 배열로 저장할 수 있고, O(N^2)로 다 둘 필요 없이 하나의 row에는 하나만 가능하니까 그걸 기준으로 col, 대각선 확인해서 되는 것을 찾아 재귀함수 호출해주면 원하는 정답을 찾을 수 있다.
+
+(91) [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)
+- 시간 : [33분](../problems/part2/134.cpp)
+- 구현 문제. stack empty() 확인이나 min()으로 빼줄 때 값이 변하는 걸 고려 안하는 등 자잘한 실수로 틀렸다.
+
+(92) [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
+- 시간 : [분](../problems/part2/135.cpp)
+- 구
+
 ### 3단계
 
 (1) [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)
