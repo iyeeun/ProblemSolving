@@ -131,7 +131,8 @@ for(set<int>::iterator iter = s.begin(); iter != s.end(); iter ++) {*iter;}
 ```:cpp
 #include <queue>
 priority_queue<int> pq; // default : max heap
-// min heap -> 각 원소에 - 곱해주고 사용
+// min heap -> 각 원소에 - 곱해주고 사용 or
+priority_queue<int, vector<int>, greater<int>> minheap;
 pq.push(3);
 pq.pop();
 pq.top();
