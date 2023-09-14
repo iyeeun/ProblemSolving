@@ -507,8 +507,12 @@
 - 구현 문제. stack empty() 확인이나 min()으로 빼줄 때 값이 변하는 걸 고려 안하는 등 자잘한 실수로 틀렸다.
 
 (92) [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
-- 시간 : [분](../problems/part2/135.cpp)
-- 구
+- 시간 : [26분](../problems/part2/137.cpp)
+- 그리디로 풀려고 계속 해봤는데 [안됐음](../problems/part2/135.cpp).. 거의 2시간 넘게 시도 해본듯. 그래서 DFS로 풀어봤음. 이것도 어려웠는데... 방향 조건을 vertex에 추가해야함!! + 예외 처리 (A로만 이루어진 문자)
+
+(93) [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)
+- 시간 : [60분](../problems/part2/136.cpp)
+- 약수를 찾는 문제였는데 조건이 좀 있었다. (자기 자신 제외 + 가장 큰 약수 + 10000000 이하) 이렇게 되니까 좀 어려웠는데 포인트는 대칭을 이용하는거!! 좀 찾아보고 이해 안돼서 좀 더 스스로 생각해보고 이해했다.
 
 ### 3단계
 
