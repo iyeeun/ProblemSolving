@@ -514,8 +514,33 @@
 - 시간 : [60분](../problems/part2/136.cpp)
 - 약수를 찾는 문제였는데 조건이 좀 있었다. (자기 자신 제외 + 가장 큰 약수 + 10000000 이하) 이렇게 되니까 좀 어려웠는데 포인트는 대칭을 이용하는거!! 좀 찾아보고 이해 안돼서 좀 더 스스로 생각해보고 이해했다.
 
+(94) [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
+- 시간 : [84분](../problems/part2/138.cpp)
+- 크기가 크지 않아서 모든 경우의 수를 파악해서 구현했다..! 테케 50개 넘는거 보고 .. 적당히해 라는 말이 절로 나왔지만.. 다행히 한 번에 통과! 처음에는 next_permutation을 활용해서 전부 해볼 생각이었는데, 오히려 머리로 단순구현한게 더 쉬웠다.
+
+(95) [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
+- 시간 : [27분](../problems/part2/139.cpp)
+- 카카오 기출이라 엄청 떨렸는데.. 한 번에 맞췄다 !! 할인율을 적용시키기 위해 재귀를 이용했고, 이 과정이 조금 어려웠다. 그리고 그 때 users를 다 돌면서 구매하는 사람을 파악하고, 나와있는대로 구현했더니 됐다. ㅎㅎㅎ
+
+(96) [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
+- 시간 : [27분](../problems/part2/139.cpp)
+- 카
+
 ### 3단계
 
 (1) [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)
 - [시간 : 12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/62.cpp)
 - DP 문제를 2개로 수행
+
+(2) [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
+- [시간 : 12분](https://github.com/22000546/ProblemSolving/blob/main/problems/part2/140.cpp)
+- 기본적인 DP 문제
+
+(3) [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
+- [시간 : 14분](../problems/part2/141.cpp)
+- 간단한 BFS 문제였다. connected component의 수를 찾는 문제로, 기본적인 문제고 각 노드들에 대하여 한번씩 BFS/DFS를 수행하는데, 방문하지 않았을 때만 해주면 됨.
+
+(4) [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
+- [시간 : 34분](../problems/part2/142.cpp)
+- 처음에는 접근법을 모르겠어서 당황스러웠는데, 각 단어를 하나의 노드로 보니까 BFS로 푸는 방법이 보였다. 각 단어 중 한 글자만 다른 단어들을 서로 인접하다고 보고, BFS를 begin에서 시작하여 target의 최단거리를 구했다. 한 번 에러가 있었는데, 단어 mapping에서 생긴 구멍 때문이어서 벡터를 선언할 때 +2 공간만큼 해주었다.
+
