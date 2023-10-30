@@ -522,9 +522,13 @@
 - 시간 : [27분](../problems/part2/139.cpp)
 - 카카오 기출이라 엄청 떨렸는데.. 한 번에 맞췄다 !! 할인율을 적용시키기 위해 재귀를 이용했고, 이 과정이 조금 어려웠다. 그리고 그 때 users를 다 돌면서 구매하는 사람을 파악하고, 나와있는대로 구현했더니 됐다. ㅎㅎㅎ
 
-(96) [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
-- 시간 : [27분](../problems/part2/139.cpp)
-- 카
+(96) [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
+- 시간 : [32분](../problems/part2/146.cpp)
+- 일종의 그리디 문제인듯.. (확실하지는 않음) 처음에는 누적합으로 풀려 했는데 뭔가 애매해서 조금 질문 참고했다. 미사일의 범위를 통해 가능한 요격의 범위를 정한다는 아이디어를 이용!
+
+(97) [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
+- 시간 : [35분](../problems/part2/147.cpp)
+- n개의 화살을 맞히는 행위 -> **중복조합**! k개 중 n개를 선택하는 것이기 때문. visit 없이 재귀함수 구현하고, idx를 통해 이미 지나간 위치는 다시 방문하지 않는 것으로 구현. 0부터가 아니라 10부터 내려가는 형태라서 `reverse(v.begin(), v.end())` 이용하여 직관적으로 구성
 
 ### 3단계
 
@@ -551,3 +555,7 @@
 (6) [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
 - [시간 : 77분](../problems/part2/144.cpp)
 - 어렵진 않았는데 반환값 때문에 너무 오래 걸렸다. 처음에는 기본적인 BFS로 풀려 했는데 틀려서 다시 보니 '모든 항공편을 이용한다'는 말은 곧 각 항공권 자체가 하나의 노드라는 의미여서 DFS로 수정하여 다시 풀었다. sorting + DFS! 다른 문제에서도 어떤 것을 **모두 사용**해야 한다면 DFS를 고려해볼 수 있을 것 같다.
+
+(7) [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
+- [시간 : 30분](../problems/part2/145.cpp)
+- deque 이용해서 이중우선순위큐 자체를 구현해서 풀었다.
