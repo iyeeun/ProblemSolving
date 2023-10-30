@@ -242,6 +242,62 @@ for(int i = 1; i*i <= n; i ++) {
 - 팩토리얼 이용
 - 파스칼의 삼각형 이용 -> DP
 
+#### [순열과 조합 DFS로 구하기](https://charles098.tistory.com/9)
+- 조합 : n개 중에서 cnt가 남아 있으면 선택
+    ```:cpp
+    void dfs(int n, int cur, int cnt, vector<bool> &visit) {
+        if(cnt == 0) return;
+
+        for(int i = cur; i < n; i ++) {
+            if(visit[cur]) continue;
+            visit[cur] = true;
+            dfs(n, i, cnt-1, visit);
+            visit[cur] = false;
+        }
+
+    }
+    ```
+- 중복조합 : 또 가도 되지만 돌아오는 건 안됨
+    ```:cpp
+    void dfs(int n, int cnt, int idx, vector<int> &res) {
+        if(cnt == 0) return;
+        
+        for(int i = idx; i < n; i ++) {
+            res.push_back(i);
+            dfs(n, cnt-1, i, res);
+            res.pop_back();
+        }
+    }
+    ```
+- 순열
+    ```:cpp
+    void dfs(int n, int cnt, vector<bool> &visit, vector<int> &res) {
+        if(cnt == 0) return;
+
+        for(int i = 0; i < n; i ++) {
+            if(visit[i]) continue;
+            visit[i] = true;
+            res.push_back(i);
+            dfs(n, cnt-1, visit, res);
+            res.pop_back();
+            visit[i] = false;
+        }
+
+    }
+    ```
+- 중복순열
+    ```:cpp
+    void dfs(int n, int cnt, vector<int> &res) {
+        if(cnt == 0) return;
+        
+        for(int i = 0; i < n; i ++) {
+            res.push_back(i);
+            dfs(n, cnt-1, res);
+            res.pop_back();
+        }
+    }
+    ```
+
 ---
 ### 2. etc
 #### 10진수 -> 2진수 변환
