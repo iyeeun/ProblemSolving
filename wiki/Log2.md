@@ -530,6 +530,18 @@
 - 시간 : [35분](../problems/part2/147.cpp)
 - n개의 화살을 맞히는 행위 -> **중복조합**! k개 중 n개를 선택하는 것이기 때문. visit 없이 재귀함수 구현하고, idx를 통해 이미 지나간 위치는 다시 방문하지 않는 것으로 구현. 0부터가 아니라 10부터 내려가는 형태라서 `reverse(v.begin(), v.end())` 이용하여 직관적으로 구성
 
+(98) [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
+- 시간 : [142+25분](../problems/part2/148.cpp)
+- 142분 동안 여러 방법을 시도해봤지만 계속 효율성을 통과하지 못했다... 서치하고 나서 방법이 확실하게 이해가 되었음! 한 마디로 표현하면 **모든 서치 케이스에 대해 정보를 정리**하는 것이다. 또한 map의 value로 벡터를 사용하고 sorting 하는 것도 중요한 포인트였다. lower_bound도 적절히 잘 사용해야 했다. 여러 경우의 수를 표현할 때 아예 찾아보는 것보다 정보를 재배치하는 것이 효율적일 수도 있다는 것을 기억해야겠다.
+
+(99) [3 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902)
+- 시간 : [45분](../problems/part2/149.cpp)
+- 풀어본 적 있는 고전적인 DP 문제지만, 어려웠다. 점화식을 세우는게 어려웠고, 패턴은 찾았지만 어떻게 표현해야 할지 복잡했다. 단순한 점화식이 아닐 수도 있다는 점..! + mod 연산할 때 언제 값이 넘어갈지를 생각해야 함!
+
+(100) [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
+- 시간 : [39분](../problems/part2/150.cpp)
+- 식을 참고로 줘서 접근법 자체는 쉬웠지만, 좌표 계산 실수와 타입 변환 때문에 시간을 많이 썼다. **int의 곱셈을 long으로 casting해주지 않으면 오버플로우**가 난다.
+
 ### 3단계
 
 (1) [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)
