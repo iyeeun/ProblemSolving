@@ -542,6 +542,15 @@
 - 시간 : [39분](../problems/part2/150.cpp)
 - 식을 참고로 줘서 접근법 자체는 쉬웠지만, 좌표 계산 실수와 타입 변환 때문에 시간을 많이 썼다. **int의 곱셈을 long으로 casting해주지 않으면 오버플로우**가 난다.
 
+(101) [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
+- 시간 : [35분](../problems/part2/151.cpp)
+- 왕복으로 왔다갔다하며 배달과 수거가 서로 다르게 수행되므로, 가장 멀리 있는 곳부터 가는 것이 가장 효율적이라고 생각했다. 그 아이디어를 코드로 옮겼는데 cap을 최대로 채우는 만큼 뒤에서부터 인덱스를 활용하는게 살짝 까다로웠다. 다 찰 때까지 싣고 빈칸이면 쓰루하는 부분이 살짝 헷갈렸다.
+
+(102) [카카오프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829)
+- 시간 : [21분](../problems/part2/152.cpp)
+- BFS를 이용해서 영역의 크기를 구하는 기본적인 문제였음. 테스트케이스 설명이 이상해서 당황스러웠음.. 영역의 크기를 미리 벡터로 관리하면 편함!
+
+
 ### 3단계
 
 (1) [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)
