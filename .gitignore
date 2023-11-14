@@ -34,3 +34,6 @@
 # VS Code Settings
 .vscode
 *.json
+
+# Mac
+.DS_Store
