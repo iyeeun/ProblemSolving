@@ -342,3 +342,39 @@ fill_n(arr, len, value);
 - 겹치는 구간을 확인하는 방법
     1. 시작 위치에 1을, 끝 위치에 -1을 함
     2. 누적합을 구함
+
+---
+### 3. 그래프 관련
+#### Union-Find 알고리즘
+: 두 노드를 선택해서 같은 그래프에 속하는지 확인 -> 사이클을 확인할 때 활용 가능
+- Union : 두 노드를 하나의 부모로 합침
+- Find : 두 노드가 부모가 같은지 확인
+    ```:cpp
+        int getParent(vector<int> parent, int n) {
+            if(parent[n] == n) return n;
+            else return getParent(parent, parent[n]);
+        }
+
+        vector<int> parent(n);
+        for(int i = 0; i < n; i ++) parent[i] = i;
+        for(int idx = 0; idx < costs.size(); idx ++) {
+            int p1 = getParent(parent, costs[idx][0]);
+            int p2 = getParent(parent, costs[idx][1]);
+            
+            if(p1 != p2) {
+                parent[p2] = p1;
+                answer += costs[idx][2];
+            }
+        }
+    ```
+    1. `parent[i] = i`로 초기화
+    2. 각 노드에 대해 parent를 재귀적으로 찾음
+    3. 해당 parent가 같다면 -> 싸이클, 같지 않다면 `parent[p2] = p1`으로 merge (더 작은 값을 이용해서 merge)
+
+#### Minimum Spanning Tree
+
+- Kruskal Algorithm
+    : cost를 오름차순으로 sorting하고, 사이클이 생기지 않는 n-1개의 edge를 선택 (Union-Find 이용)
+
+- Prim Algorithm
+    : 특정 vertex에서 시작하여 현재까지 방문한 노드와 인접한 edge 중 cost가 가장 작은 것을 선택
