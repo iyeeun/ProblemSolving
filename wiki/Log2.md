@@ -631,3 +631,23 @@
 (16) [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
 - [시간 : 29분](../problems/part2/167.cpp)
 - set과 permutation을 적절하게 활용해서 풀었다. 하나가 하나에 대응되면 중복으로 선택될 수 없어서 순열을 이용했고, 중복은 제외하기 위해 set을 계속 이용했다. N 제한이 8이라서 전체 다 해보는 방법이 맞겠다고 생각했다. 보니까 다들 DFS+set으로 푼 거 같다.
+
+(17) [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
+- [시간 : 52분](../problems/part2/168.cpp)
+- 특정 구간에서의 최댓값 중 최솟값을 찾는 문제. 구간에서의 최댓값을 찾는 방법은 sliding window고, priority_queue를 이용해서 인덱스랑 같이 저장한 후에 인덱스가 구간의 범위를 벗어나는 경우 pop하면 된다.
+
+(18) [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)
+- [시간 : 9분](../problems/part2/169.cpp)
+- 그래프 최단 거리 문제라서 BFS로 주어진 조건을 구현하니까 그냥 됨.. 이왜3단계..?
+
+(19) [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
+- [시간 : 56분](../problems/part2/170.cpp)
+- Minimum Spanning Tree 문제. Kruskal 알고리즘으로 풀었는데, 사이클을 감지하는 코드를 생각해내기 어려웠다. 이 때 **Union-Find 알고리즘**을 이용한다. [Prim 알고리즘으로도 풀어보았다.](../problems/part2/171.cpp) 프림은 vertex의 수가 많아지면 비효율적이다.
+
+(20) [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
+- [시간 : 60분](../problems/part2/172.cpp)
+- 현재 시점에서 종료 시점이 가장 적어야, 빨리 끝내고 다음 작업을 시작할 수 있음
+
+(21) [[카카오 인턴] 보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)
+- [시간 : 122분](../problems/part2/173.cpp)
+- 정말..... ~~거지같았다~~ 투 포인터+map으로 해결해야 했는데, 너무너무너무너무 어려웠다. 개념 자체도 떠올리기 쉽지 않아 결국 서치했는데, 투포인터 구현도 쉽지 않았다. map의 크기를 이용하는 과정이 매끄럽지 못했다. 비슷한 문제를 많이 풀어봐야 할 것 같다...
